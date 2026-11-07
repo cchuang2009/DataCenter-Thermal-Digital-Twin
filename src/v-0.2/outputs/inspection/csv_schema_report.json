@@ -1,0 +1,4811 @@
+[
+  {
+    "file": "AAU_air_speed.csv",
+    "size_bytes": 44118473,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "velocity 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 9",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 10",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 11",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 12",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 13",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 14",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 15",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 16",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-16 16:58:49",
+        "velocity 1": 2.702592637582952,
+        "velocity 2": 1.0605619841410296,
+        "velocity 3": 1.0214185281751675,
+        "velocity 4": 1.1023063678886924,
+        "velocity 5": 1.105219306932456,
+        "velocity 6": 1.1957266760291858,
+        "velocity 7": 1.3231719320834383,
+        "velocity 8": 1.040132209517296,
+        "velocity 9": 1.4302427784056455,
+        "velocity 10": 1.5870078128302036,
+        "velocity 11": 1.387109777698674,
+        "velocity 12": 2.5298628970801307,
+        "velocity 13": 1.1313294971412011,
+        "velocity 14": 1.2446319864981892,
+        "velocity 15": 1.3962354614426835,
+        "velocity 16": 1.1314820181895149
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 16:58:59",
+        "velocity 1": 2.714660039948295,
+        "velocity 2": 1.0721481250081988,
+        "velocity 3": 1.0608013129270415,
+        "velocity 4": 1.092303380333638,
+        "velocity 5": 1.284051865457489,
+        "velocity 6": 1.2816308808071606,
+        "velocity 7": 1.2889945566868324,
+        "velocity 8": 1.1048094000040547,
+        "velocity 9": 1.5079308517055496,
+        "velocity 10": 1.5713423383524254,
+        "velocity 11": 1.545913711403907,
+        "velocity 12": 2.523513372180848,
+        "velocity 13": 1.2390423859927824,
+        "velocity 14": 1.2046453895283036,
+        "velocity 15": 1.370607430139902,
+        "velocity 16": 1.1652634946828573
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 16:59:09",
+        "velocity 1": 2.7216613177188584,
+        "velocity 2": 1.0085543297468549,
+        "velocity 3": 1.0519501884977844,
+        "velocity 4": 1.054319114646618,
+        "velocity 5": 1.5508361092456742,
+        "velocity 6": 1.3479044681061472,
+        "velocity 7": 1.320563824511925,
+        "velocity 8": 1.1612179101282398,
+        "velocity 9": 1.5320318876616088,
+        "velocity 10": 1.5052341349053664,
+        "velocity 11": 1.4798813566096614,
+        "velocity 12": 2.523423649072956,
+        "velocity 13": 1.3490026376519972,
+        "velocity 14": 1.308108441401114,
+        "velocity 15": 1.399640312092298,
+        "velocity 16": 0.8651560994743828
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 16:59:19",
+        "velocity 1": 2.716084099846828,
+        "velocity 2": 1.009555066284725,
+        "velocity 3": 1.0321521066294226,
+        "velocity 4": 1.0306986549801749,
+        "velocity 5": 1.6134281304186238,
+        "velocity 6": 1.3367516468308616,
+        "velocity 7": 1.34319454140309,
+        "velocity 8": 1.1429934144434588,
+        "velocity 9": 1.5068478860592736,
+        "velocity 10": 1.5886359997930988,
+        "velocity 11": 1.560289139184262,
+        "velocity 12": 2.513847681213885,
+        "velocity 13": 1.3494035322141666,
+        "velocity 14": 1.2864181029147883,
+        "velocity 15": 1.3099082151270194,
+        "velocity 16": 1.1038358120711131
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 16:59:29",
+        "velocity 1": 2.7029749073492244,
+        "velocity 2": 1.08706723635102,
+        "velocity 3": 1.044124924572614,
+        "velocity 4": 1.0832138593778593,
+        "velocity 5": 1.33026141849033,
+        "velocity 6": 1.2496997546335171,
+        "velocity 7": 1.349648610659568,
+        "velocity 8": 1.1204565330394385,
+        "velocity 9": 1.3231108629645254,
+        "velocity 10": 1.487141207358016,
+        "velocity 11": 1.4372951926269957,
+        "velocity 12": 2.5183668547121765,
+        "velocity 13": 1.2711837083010589,
+        "velocity 14": 1.3112279353302667,
+        "velocity 15": 1.4593649668923256,
+        "velocity 16": 1.0876763676617025
+      }
+    ],
+    "rows_scanned": 137027,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_air_speed_100_percent_load_period.csv",
+    "size_bytes": 8312511,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "velocity 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 9",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 10",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 11",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 12",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 13",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 14",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 15",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 16",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-20 10:20:57",
+        "velocity 1": 2.745616889738619,
+        "velocity 2": 0.9467643964392012,
+        "velocity 3": 0.9481690106018916,
+        "velocity 4": 1.068357300081333,
+        "velocity 5": 1.117792771815593,
+        "velocity 6": 1.1725767485465806,
+        "velocity 7": 0.9487075037951764,
+        "velocity 8": 0.6418836339255904,
+        "velocity 9": 1.0200965481458442,
+        "velocity 10": 1.0759646897278872,
+        "velocity 11": 0.9317397888591452,
+        "velocity 12": 1.21182972436541,
+        "velocity 13": 1.0351896022541356,
+        "velocity 14": 0.7598845967937303,
+        "velocity 15": 0.9622804486682583,
+        "velocity 16": 0.882056335043616
+      },
+      {
+        "Time [Date/Time]": "2024-09-20 10:21:07",
+        "velocity 1": 2.7617660370442008,
+        "velocity 2": 0.9969998911987312,
+        "velocity 3": 1.001613265283277,
+        "velocity 4": 1.0600765476603493,
+        "velocity 5": 0.9783940337164188,
+        "velocity 6": 1.0953933796611162,
+        "velocity 7": 1.0359674453429972,
+        "velocity 8": 0.5878130458997627,
+        "velocity 9": 1.0237925087618462,
+        "velocity 10": 1.100342305981539,
+        "velocity 11": 1.0419197168044698,
+        "velocity 12": 1.169102144817631,
+        "velocity 13": 0.9874428077648044,
+        "velocity 14": 0.956050849111918,
+        "velocity 15": 1.0479019789677175,
+        "velocity 16": 0.7894694366837581
+      },
+      {
+        "Time [Date/Time]": "2024-09-20 10:21:17",
+        "velocity 1": 2.748284376569204,
+        "velocity 2": 1.0041286860081005,
+        "velocity 3": 0.9710816049606598,
+        "velocity 4": 1.0712321744573918,
+        "velocity 5": 1.2454285531798155,
+        "velocity 6": 1.0448085602478094,
+        "velocity 7": 1.1270342668415314,
+        "velocity 8": 0.5825306189737468,
+        "velocity 9": 1.0606432035348932,
+        "velocity 10": 1.059040300525546,
+        "velocity 11": 1.0110761750529658,
+        "velocity 12": 1.1365448589955978,
+        "velocity 13": 1.0163215038878777,
+        "velocity 14": 0.9552280715556276,
+        "velocity 15": 1.0524921881207414,
+        "velocity 16": 0.8188221617087955
+      },
+      {
+        "Time [Date/Time]": "2024-09-20 10:21:27",
+        "velocity 1": 2.743286864496576,
+        "velocity 2": 1.047624267738553,
+        "velocity 3": 1.0410945326435432,
+        "velocity 4": 1.1257760239209758,
+        "velocity 5": 1.0016321301598272,
+        "velocity 6": 1.0312984128405591,
+        "velocity 7": 0.9496366919666788,
+        "velocity 8": 0.8251870407990229,
+        "velocity 9": 0.9044686662031584,
+        "velocity 10": 1.0393389558483277,
+        "velocity 11": 0.9699489965131776,
+        "velocity 12": 1.0884288684802714,
+        "velocity 13": 0.9809209171936611,
+        "velocity 14": 0.8196257004309704,
+        "velocity 15": 0.988493521603522,
+        "velocity 16": 0.7903931762676666
+      },
+      {
+        "Time [Date/Time]": "2024-09-20 10:21:37",
+        "velocity 1": 2.7262583567030108,
+        "velocity 2": 0.9183506646226702,
+        "velocity 3": 1.023361507969907,
+        "velocity 4": 1.0781105491339564,
+        "velocity 5": 0.9083640119959272,
+        "velocity 6": 1.0423733978756384,
+        "velocity 7": 1.151262549318549,
+        "velocity 8": 0.5893761629329608,
+        "velocity 9": 1.0388442381051035,
+        "velocity 10": 1.1111669956294776,
+        "velocity 11": 0.9346312327368484,
+        "velocity 12": 1.1696354589709397,
+        "velocity 13": 1.013874954473883,
+        "velocity 14": 0.9611826666948342,
+        "velocity 15": 0.9757891057879812,
+        "velocity 16": 0.7844938393795243
+      }
+    ],
+    "rows_scanned": 25813,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_air_speed_25_percent_load_period.csv",
+    "size_bytes": 2926941,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "velocity 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 9",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 10",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 11",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 12",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 13",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 14",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 15",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 16",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-17 09:40:00",
+        "velocity 1": 2.263749746412917,
+        "velocity 2": 0.98034666300412,
+        "velocity 3": 1.004930898153492,
+        "velocity 4": 1.1121931309868462,
+        "velocity 5": 0.9215804928446076,
+        "velocity 6": 1.0956650122544895,
+        "velocity 7": 0.923752620095636,
+        "velocity 8": 0.6049029617426939,
+        "velocity 9": 0.930848936426928,
+        "velocity 10": 0.9516985799726246,
+        "velocity 11": 1.019697452669971,
+        "velocity 12": 1.2596155338436947,
+        "velocity 13": 1.0275179763348836,
+        "velocity 14": 0.8225382741403648,
+        "velocity 15": 1.1102348807324,
+        "velocity 16": 0.7722802825650125
+      },
+      {
+        "Time [Date/Time]": "2024-09-17 09:40:10",
+        "velocity 1": 0.7517790036819778,
+        "velocity 2": 0.7344138095205666,
+        "velocity 3": 0.6887617166545911,
+        "velocity 4": 0.7642468835405662,
+        "velocity 5": 1.2652725264278528,
+        "velocity 6": 1.0934022015570612,
+        "velocity 7": 0.8679518794478716,
+        "velocity 8": 0.7427752868319184,
+        "velocity 9": 0.9342550522227588,
+        "velocity 10": 1.0666262678843257,
+        "velocity 11": 1.082358666857567,
+        "velocity 12": 1.2983938610745107,
+        "velocity 13": 1.0934025183004827,
+        "velocity 14": 0.7741807245834788,
+        "velocity 15": 0.9448704956494264,
+        "velocity 16": 0.7633228078119614
+      },
+      {
+        "Time [Date/Time]": "2024-09-17 09:40:20",
+        "velocity 1": 0.8387488761479187,
+        "velocity 2": 0.7871516739967563,
+        "velocity 3": 0.8414764405954017,
+        "velocity 4": 0.8205561921097954,
+        "velocity 5": 1.3742233034400193,
+        "velocity 6": 1.0254154227261854,
+        "velocity 7": 0.9764491544228106,
+        "velocity 8": 0.5775502555121196,
+        "velocity 9": 0.8768315234410101,
+        "velocity 10": 1.1093997137699256,
+        "velocity 11": 1.1188126708121375,
+        "velocity 12": 1.1957750303316914,
+        "velocity 13": 1.060275348358192,
+        "velocity 14": 0.8746350976211301,
+        "velocity 15": 1.123713751137153,
+        "velocity 16": 0.7218524989161947
+      },
+      {
+        "Time [Date/Time]": "2024-09-17 09:40:30",
+        "velocity 1": 0.5990125229838342,
+        "velocity 2": 0.7319494825867615,
+        "velocity 3": 0.7747093355474474,
+        "velocity 4": 0.8639914808787178,
+        "velocity 5": 1.051584267135834,
+        "velocity 6": 1.1035105875683529,
+        "velocity 7": 1.0054374326144428,
+        "velocity 8": 0.5266783476681309,
+        "velocity 9": 0.8575348849586991,
+        "velocity 10": 0.9738181988683672,
+        "velocity 11": 0.8938990118725061,
+        "velocity 12": 1.322398740252302,
+        "velocity 13": 1.1246201862611194,
+        "velocity 14": 0.9651151315347912,
+        "velocity 15": 1.2084355698921427,
+        "velocity 16": 0.8356884068604391
+      },
+      {
+        "Time [Date/Time]": "2024-09-17 09:40:40",
+        "velocity 1": 0.4973315656663851,
+        "velocity 2": 0.6374987634544456,
+        "velocity 3": 0.8114330898727296,
+        "velocity 4": 0.9005820136156337,
+        "velocity 5": 0.8934090778032762,
+        "velocity 6": 1.1124530184712471,
+        "velocity 7": 1.0563370047524374,
+        "velocity 8": 0.6046475584882514,
+        "velocity 9": 0.79037432685447,
+        "velocity 10": 0.9345906137493152,
+        "velocity 11": 0.9736716199765204,
+        "velocity 12": 1.2638913782733845,
+        "velocity 13": 1.0308991059441246,
+        "velocity 14": 0.9281440780519048,
+        "velocity 15": 1.1597121418209266,
+        "velocity 16": 0.750031554816223
+      }
+    ],
+    "rows_scanned": 9091,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_air_speed_50_percent_load_period.csv",
+    "size_bytes": 2447905,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "velocity 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 9",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 10",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 11",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 12",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 13",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 14",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 15",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 16",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-18 11:25:01",
+        "velocity 1": 2.7061576882237226,
+        "velocity 2": 0.9328734969774228,
+        "velocity 3": 1.005740302091216,
+        "velocity 4": 1.0997004426690975,
+        "velocity 5": 0.9797744003250868,
+        "velocity 6": 1.1105333226286058,
+        "velocity 7": 0.9275985817806008,
+        "velocity 8": 0.6786224097569237,
+        "velocity 9": 0.9017441248935488,
+        "velocity 10": 0.9933204330843814,
+        "velocity 11": 1.0319551409741483,
+        "velocity 12": 1.2397099240192622,
+        "velocity 13": 1.1018599647975722,
+        "velocity 14": 0.8193648436610381,
+        "velocity 15": 1.0996308102031849,
+        "velocity 16": 0.7979270523546078
+      },
+      {
+        "Time [Date/Time]": "2024-09-18 11:25:11",
+        "velocity 1": 2.715609413213984,
+        "velocity 2": 0.9126474174263812,
+        "velocity 3": 0.9684625830937272,
+        "velocity 4": 1.1479403160117074,
+        "velocity 5": 1.1514452241440607,
+        "velocity 6": 1.0655050576692158,
+        "velocity 7": 0.8731960101153632,
+        "velocity 8": 0.7841751720568259,
+        "velocity 9": 0.9892878003969128,
+        "velocity 10": 0.9719393586653036,
+        "velocity 11": 1.0742119279401647,
+        "velocity 12": 1.2347751530852156,
+        "velocity 13": 0.9815487332061154,
+        "velocity 14": 0.7147328396462754,
+        "velocity 15": 1.0196137648895642,
+        "velocity 16": 0.76541821708455
+      },
+      {
+        "Time [Date/Time]": "2024-09-18 11:25:21",
+        "velocity 1": 1.3930778441433995,
+        "velocity 2": 0.7902489905675035,
+        "velocity 3": 0.8157057988722491,
+        "velocity 4": 0.8236404626148155,
+        "velocity 5": 1.2992214591715716,
+        "velocity 6": 1.0640841491617747,
+        "velocity 7": 0.9006991824054186,
+        "velocity 8": 0.7618187919912816,
+        "velocity 9": 0.9414695532921123,
+        "velocity 10": 1.0121278988825777,
+        "velocity 11": 1.1700473762811954,
+        "velocity 12": 1.2000602059646015,
+        "velocity 13": 1.0686016846840058,
+        "velocity 14": 0.7551558323402959,
+        "velocity 15": 1.049424920240784,
+        "velocity 16": 0.7794562595490975
+      },
+      {
+        "Time [Date/Time]": "2024-09-18 11:25:31",
+        "velocity 1": 0.6616543554526209,
+        "velocity 2": 0.7989565608653396,
+        "velocity 3": 0.8118280461668029,
+        "velocity 4": 0.8308473394753468,
+        "velocity 5": 1.220642597945098,
+        "velocity 6": 1.111812855107917,
+        "velocity 7": 1.0071945154829576,
+        "velocity 8": 0.6093086678818256,
+        "velocity 9": 0.8724539883387872,
+        "velocity 10": 1.0351766999306051,
+        "velocity 11": 1.1262417067894577,
+        "velocity 12": 1.261046796860784,
+        "velocity 13": 1.0959020160528772,
+        "velocity 14": 0.8672801135064977,
+        "velocity 15": 0.9550751186932788,
+        "velocity 16": 0.8829860729365109
+      },
+      {
+        "Time [Date/Time]": "2024-09-18 11:25:41",
+        "velocity 1": 0.7486746371185098,
+        "velocity 2": 0.7952368220973319,
+        "velocity 3": 0.8639058546567451,
+        "velocity 4": 0.9020160889392072,
+        "velocity 5": 0.9559481560449308,
+        "velocity 6": 1.0642747685255456,
+        "velocity 7": 1.1100648183120176,
+        "velocity 8": 0.4662386409846453,
+        "velocity 9": 0.8902162059094644,
+        "velocity 10": 1.126846591416561,
+        "velocity 11": 1.0758094433139824,
+        "velocity 12": 1.2755625601479437,
+        "velocity 13": 1.134877035813984,
+        "velocity 14": 0.9873791587820582,
+        "velocity 15": 1.157087092093981,
+        "velocity 16": 0.7367093105573882
+      }
+    ],
+    "rows_scanned": 7601,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_air_speed_75_percent_load_period.csv",
+    "size_bytes": 2843508,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "velocity 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 9",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 10",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 11",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 12",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 13",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 14",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 15",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 16",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-19 09:19:55",
+        "velocity 1": 0.4074043534701581,
+        "velocity 2": 0.6660889715136632,
+        "velocity 3": 0.7441776752248302,
+        "velocity 4": 0.8854699526204666,
+        "velocity 5": 0.849254673103424,
+        "velocity 6": 0.991261198222566,
+        "velocity 7": 0.9237446442315028,
+        "velocity 8": 0.642319538518509,
+        "velocity 9": 0.7648925755732314,
+        "velocity 10": 1.006068445059695,
+        "velocity 11": 1.0035307149847494,
+        "velocity 12": 1.180900374612965,
+        "velocity 13": 0.994749678463969,
+        "velocity 14": 0.8283418469390843,
+        "velocity 15": 1.0707392242064144,
+        "velocity 16": 0.8125639259996326
+      },
+      {
+        "Time [Date/Time]": "2024-09-19 09:20:05",
+        "velocity 1": 0.5135493254941186,
+        "velocity 2": 0.7938366363394882,
+        "velocity 3": 0.8885829290825417,
+        "velocity 4": 0.925672088315612,
+        "velocity 5": 1.0959668077396292,
+        "velocity 6": 1.1329596907762318,
+        "velocity 7": 0.8787480091383912,
+        "velocity 8": 0.6106863719755006,
+        "velocity 9": 0.7658718997383556,
+        "velocity 10": 0.9880969607723696,
+        "velocity 11": 0.9981884703075454,
+        "velocity 12": 1.2290938858935097,
+        "velocity 13": 1.0648448740070715,
+        "velocity 14": 0.7751388338474783,
+        "velocity 15": 0.9939803872533264,
+        "velocity 16": 0.7822774642090428
+      },
+      {
+        "Time [Date/Time]": "2024-09-19 09:20:15",
+        "velocity 1": 2.0509305057655416,
+        "velocity 2": 0.918336926951084,
+        "velocity 3": 0.9811001586435668,
+        "velocity 4": 1.0906195665076337,
+        "velocity 5": 1.24656827010078,
+        "velocity 6": 0.9718204058599992,
+        "velocity 7": 0.903718844566198,
+        "velocity 8": 0.6703868827014172,
+        "velocity 9": 0.7451681964017586,
+        "velocity 10": 0.9935802651755982,
+        "velocity 11": 1.0048423281606698,
+        "velocity 12": 1.1785079976641393,
+        "velocity 13": 1.0608695463780116,
+        "velocity 14": 0.7659715816470003,
+        "velocity 15": 1.0832855413040392,
+        "velocity 16": 0.7656151615629375
+      },
+      {
+        "Time [Date/Time]": "2024-09-19 09:20:25",
+        "velocity 1": 2.7339219553506697,
+        "velocity 2": 0.8957743864863877,
+        "velocity 3": 1.0096755029848912,
+        "velocity 4": 1.1306103850084146,
+        "velocity 5": 1.357013962972961,
+        "velocity 6": 1.1588029110194475,
+        "velocity 7": 0.8751668461426442,
+        "velocity 8": 0.83870131107976,
+        "velocity 9": 1.2013461756929409,
+        "velocity 10": 1.2326462649933492,
+        "velocity 11": 1.1916676247051736,
+        "velocity 12": 1.010567873236671,
+        "velocity 13": 1.014117844470669,
+        "velocity 14": 0.6975143315016463,
+        "velocity 15": 1.0063113234888623,
+        "velocity 16": 0.853143486010916
+      },
+      {
+        "Time [Date/Time]": "2024-09-19 09:20:35",
+        "velocity 1": 2.7068032060341687,
+        "velocity 2": 0.819159392049081,
+        "velocity 3": 0.856525814190348,
+        "velocity 4": 0.9957477515649872,
+        "velocity 5": 1.3168071757501982,
+        "velocity 6": 1.078434610264314,
+        "velocity 7": 0.898741905347164,
+        "velocity 8": 0.5470799105169813,
+        "velocity 9": 0.9955774329946292,
+        "velocity 10": 1.0923778875333785,
+        "velocity 11": 0.9571290830105575,
+        "velocity 12": 1.0737099720768448,
+        "velocity 13": 0.9931133226724722,
+        "velocity 14": 0.7280620321910869,
+        "velocity 15": 1.0013392333746882,
+        "velocity 16": 0.8947257633410957
+      }
+    ],
+    "rows_scanned": 8828,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_air_speed_idle_period_1.csv",
+    "size_bytes": 1874262,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "velocity 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 9",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 10",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 11",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 12",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 13",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 14",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 15",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 16",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-16 16:59:59",
+        "velocity 1": 2.724669066649093,
+        "velocity 2": 1.0333835860233058,
+        "velocity 3": 1.0560464494906014,
+        "velocity 4": 1.0985218690441645,
+        "velocity 5": 1.3939623534242174,
+        "velocity 6": 1.192471850392801,
+        "velocity 7": 1.316874987350382,
+        "velocity 8": 0.8653799000666376,
+        "velocity 9": 1.5050218636921944,
+        "velocity 10": 1.5192855437295547,
+        "velocity 11": 1.4482000035205047,
+        "velocity 12": 2.511857263788414,
+        "velocity 13": 1.1090970781620195,
+        "velocity 14": 1.1611941047081518,
+        "velocity 15": 1.30772691107693,
+        "velocity 16": 1.090609540756061
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 17:00:09",
+        "velocity 1": 2.716226925913347,
+        "velocity 2": 1.032024613280221,
+        "velocity 3": 1.0190867472493792,
+        "velocity 4": 0.9925530197992763,
+        "velocity 5": 1.0542256381080684,
+        "velocity 6": 1.1879017511463976,
+        "velocity 7": 1.3408576132121015,
+        "velocity 8": 1.1128472351174206,
+        "velocity 9": 1.5443854252243627,
+        "velocity 10": 1.5981142225987823,
+        "velocity 11": 1.4979123534718932,
+        "velocity 12": 2.2598709919517197,
+        "velocity 13": 1.16580390813833,
+        "velocity 14": 1.2961766958380827,
+        "velocity 15": 1.4319734093109526,
+        "velocity 16": 1.1254247258313967
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 17:00:19",
+        "velocity 1": 2.7167422199572604,
+        "velocity 2": 1.0721935649988306,
+        "velocity 3": 0.9876902865218172,
+        "velocity 4": 0.9975362634554722,
+        "velocity 5": 1.0698543914262897,
+        "velocity 6": 1.0167025293071652,
+        "velocity 7": 1.0372268342896087,
+        "velocity 8": 1.2671132566011682,
+        "velocity 9": 1.4395573369447856,
+        "velocity 10": 1.530375007926967,
+        "velocity 11": 1.46319586854475,
+        "velocity 12": 1.3528263583854163,
+        "velocity 13": 0.9622301537385516,
+        "velocity 14": 0.9150894715807064,
+        "velocity 15": 1.146419629325215,
+        "velocity 16": 0.9185050595995862
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 17:00:29",
+        "velocity 1": 2.712822904661299,
+        "velocity 2": 1.0250268547229069,
+        "velocity 3": 1.0143862544196558,
+        "velocity 4": 1.0338040572046312,
+        "velocity 5": 1.3824939519070156,
+        "velocity 6": 1.1760047201050574,
+        "velocity 7": 1.0289127935172997,
+        "velocity 8": 0.9685812333653032,
+        "velocity 9": 1.1568936417726747,
+        "velocity 10": 1.2933128218996304,
+        "velocity 11": 1.2236326694082231,
+        "velocity 12": 1.3253222779998468,
+        "velocity 13": 1.1664149151544665,
+        "velocity 14": 0.9236281178055205,
+        "velocity 15": 1.031462003590207,
+        "velocity 16": 0.9525664571789618
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 17:00:39",
+        "velocity 1": 2.721624911074452,
+        "velocity 2": 0.960279095048306,
+        "velocity 3": 0.9790115066572468,
+        "velocity 4": 1.0716115848745462,
+        "velocity 5": 0.9920032548554316,
+        "velocity 6": 1.0324143303659672,
+        "velocity 7": 1.0035192372904402,
+        "velocity 8": 0.917321309038604,
+        "velocity 9": 1.097774081634106,
+        "velocity 10": 1.224392359704431,
+        "velocity 11": 0.9485564382416486,
+        "velocity 12": 1.1624059298294536,
+        "velocity 13": 1.0647372964306403,
+        "velocity 14": 0.7336528007827562,
+        "velocity 15": 1.0454525944829007,
+        "velocity 16": 0.970133504763852
+      }
+    ],
+    "rows_scanned": 5822,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_air_speed_idle_period_2.csv",
+    "size_bytes": 25420640,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "velocity 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 9",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 10",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 11",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 12",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 13",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 14",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 15",
+        "dtype": "float64"
+      },
+      {
+        "name": "velocity 16",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-23 10:33:02",
+        "velocity 1": 2.6959190196120506,
+        "velocity 2": 0.934977474218077,
+        "velocity 3": 0.8547141445401316,
+        "velocity 4": 0.9117568510667092,
+        "velocity 5": 1.2091260664903558,
+        "velocity 6": 1.1355481428867682,
+        "velocity 7": 0.9345192390888633,
+        "velocity 8": 0.7444955750986195,
+        "velocity 9": 0.9424400942808676,
+        "velocity 10": 1.1053772588143254,
+        "velocity 11": 1.0237428213979505,
+        "velocity 12": 1.203575916224232,
+        "velocity 13": 1.0482048081026822,
+        "velocity 14": 0.8377130773656748,
+        "velocity 15": 1.055177575039549,
+        "velocity 16": 0.676735218156686
+      },
+      {
+        "Time [Date/Time]": "2024-09-23 10:33:12",
+        "velocity 1": 2.713430615571784,
+        "velocity 2": 0.8500997986935396,
+        "velocity 3": 0.7992817722018271,
+        "velocity 4": 0.902761462315693,
+        "velocity 5": 1.2266328499714154,
+        "velocity 6": 1.0305335526434292,
+        "velocity 7": 0.9930222025049106,
+        "velocity 8": 0.77240943174881,
+        "velocity 9": 0.8631596311052954,
+        "velocity 10": 0.9686949878524226,
+        "velocity 11": 0.9615701462753174,
+        "velocity 12": 1.197824306115939,
+        "velocity 13": 0.9794778648598144,
+        "velocity 14": 0.9234408108767346,
+        "velocity 15": 1.0273392167336304,
+        "velocity 16": 0.7328493987246282
+      },
+      {
+        "Time [Date/Time]": "2024-09-23 10:33:22",
+        "velocity 1": 2.708235667466026,
+        "velocity 2": 0.8793853442838224,
+        "velocity 3": 0.8666797814597945,
+        "velocity 4": 0.9564898195155702,
+        "velocity 5": 1.2378423124246485,
+        "velocity 6": 1.0232860455833963,
+        "velocity 7": 0.9208398345142398,
+        "velocity 8": 0.6411088288604309,
+        "velocity 9": 0.8205252146933762,
+        "velocity 10": 1.0073040596239045,
+        "velocity 11": 1.0241311473213828,
+        "velocity 12": 1.2521096575299024,
+        "velocity 13": 0.931250333075806,
+        "velocity 14": 0.7949129538058051,
+        "velocity 15": 1.0489521516108802,
+        "velocity 16": 0.8194039976804781
+      },
+      {
+        "Time [Date/Time]": "2024-09-23 10:33:32",
+        "velocity 1": 2.704200130959073,
+        "velocity 2": 0.8256974669802353,
+        "velocity 3": 0.9617647398625476,
+        "velocity 4": 1.0653239378095003,
+        "velocity 5": 1.283573453878334,
+        "velocity 6": 1.1151756983837722,
+        "velocity 7": 0.9057782126853556,
+        "velocity 8": 0.8250617949723251,
+        "velocity 9": 0.9617709871510172,
+        "velocity 10": 1.0475836822861972,
+        "velocity 11": 1.0653386437466623,
+        "velocity 12": 1.2009028853939208,
+        "velocity 13": 0.976470735418635,
+        "velocity 14": 0.8220842264543549,
+        "velocity 15": 1.0108732734507613,
+        "velocity 16": 0.9425932687708772
+      },
+      {
+        "Time [Date/Time]": "2024-09-23 10:33:42",
+        "velocity 1": 2.7131085567943383,
+        "velocity 2": 0.828085708348331,
+        "velocity 3": 0.8380952043739333,
+        "velocity 4": 0.9563832003856864,
+        "velocity 5": 1.4249002772753891,
+        "velocity 6": 1.1812713742765726,
+        "velocity 7": 0.962507343918209,
+        "velocity 8": 0.7542782564839214,
+        "velocity 9": 0.8539381742356648,
+        "velocity 10": 1.1636679054299983,
+        "velocity 11": 1.1255387410760709,
+        "velocity 12": 1.1288171871590968,
+        "velocity 13": 1.175576658597254,
+        "velocity 14": 0.8275190693827941,
+        "velocity 15": 1.0298665049345217,
+        "velocity 16": 0.8353105133942947
+      }
+    ],
+    "rows_scanned": 78960,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_supplementary_surrounding_temperatures.csv",
+    "size_bytes": 156859,
+    "columns": [
+      {
+        "name": "time",
+        "dtype": "str"
+      },
+      {
+        "name": "Outdoor_temperature",
+        "dtype": "float64"
+      },
+      {
+        "name": "Room_adjacent_west_temperature",
+        "dtype": "float64"
+      },
+      {
+        "name": "Room_adjacent_east_temperature",
+        "dtype": "float64"
+      },
+      {
+        "name": "Room_above_west_temperature",
+        "dtype": "float64"
+      },
+      {
+        "name": "Room_above_east_temperature",
+        "dtype": "float64"
+      },
+      {
+        "name": "Room_below_temperature",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "time": "2024-09-16 16:45:00",
+        "Outdoor_temperature": 17.1898117065,
+        "Room_adjacent_west_temperature": 22.0599994659,
+        "Room_adjacent_east_temperature": 21.3700008392,
+        "Room_above_west_temperature": 23.6599998474,
+        "Room_above_east_temperature": 21.9500007629,
+        "Room_below_temperature": 22.8199996948
+      },
+      {
+        "time": "2024-09-16 17:00:00",
+        "Outdoor_temperature": 17.183599472,
+        "Room_adjacent_west_temperature": 21.9899997711,
+        "Room_adjacent_east_temperature": 21.3700008392,
+        "Room_above_west_temperature": 23.5900001526,
+        "Room_above_east_temperature": 21.9699993134,
+        "Room_below_temperature": 22.8199996948
+      },
+      {
+        "time": "2024-09-16 17:15:00",
+        "Outdoor_temperature": 17.1812152863,
+        "Room_adjacent_west_temperature": 22.1700000763,
+        "Room_adjacent_east_temperature": 21.3700008392,
+        "Room_above_west_temperature": 23.5699996948,
+        "Room_above_east_temperature": 22.0100002289,
+        "Room_below_temperature": 22.8199996948
+      },
+      {
+        "time": "2024-09-16 17:30:00",
+        "Outdoor_temperature": 17.1805534363,
+        "Room_adjacent_west_temperature": 22.0799999237,
+        "Room_adjacent_east_temperature": 21.25,
+        "Room_above_west_temperature": 23.7299995422,
+        "Room_above_east_temperature": 22.0599994659,
+        "Room_below_temperature": 22.7999992371
+      },
+      {
+        "time": "2024-09-16 17:45:00",
+        "Outdoor_temperature": 17.1802463531,
+        "Room_adjacent_west_temperature": 22.1299991608,
+        "Room_adjacent_east_temperature": 21.25,
+        "Room_above_west_temperature": 23.5900001526,
+        "Room_above_east_temperature": 21.9200000763,
+        "Room_below_temperature": 22.8700008392
+      }
+    ],
+    "rows_scanned": 1526,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_supplementary_ventilation.csv",
+    "size_bytes": 225183,
+    "columns": [
+      {
+        "name": "time",
+        "dtype": "str"
+      },
+      {
+        "name": "Room_damper_opening",
+        "dtype": "float64"
+      },
+      {
+        "name": "AHU_pressure_supply_duct",
+        "dtype": "float64"
+      },
+      {
+        "name": "AHU_pressure_extraction_duct",
+        "dtype": "float64"
+      },
+      {
+        "name": "AHU_fan_speed_supply",
+        "dtype": "float64"
+      },
+      {
+        "name": "AHU_fan_speed_extraction",
+        "dtype": "float64"
+      },
+      {
+        "name": "AHU_temperature_supply",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "time": "2024-09-16 16:45:00",
+        "Room_damper_opening": null,
+        "AHU_pressure_supply_duct": null,
+        "AHU_pressure_extraction_duct": null,
+        "AHU_fan_speed_supply": 52.9257659912,
+        "AHU_fan_speed_extraction": 49.441986084,
+        "AHU_temperature_supply": 17.2800006866
+      },
+      {
+        "time": "2024-09-16 16:47:00",
+        "Room_damper_opening": 0.0,
+        "AHU_pressure_supply_duct": null,
+        "AHU_pressure_extraction_duct": null,
+        "AHU_fan_speed_supply": null,
+        "AHU_fan_speed_extraction": null,
+        "AHU_temperature_supply": null
+      },
+      {
+        "time": "2024-09-16 16:50:00",
+        "Room_damper_opening": null,
+        "AHU_pressure_supply_duct": 253.25,
+        "AHU_pressure_extraction_duct": 203.9000091553,
+        "AHU_fan_speed_supply": null,
+        "AHU_fan_speed_extraction": null,
+        "AHU_temperature_supply": null
+      },
+      {
+        "time": "2024-09-16 17:00:00",
+        "Room_damper_opening": null,
+        "AHU_pressure_supply_duct": null,
+        "AHU_pressure_extraction_duct": null,
+        "AHU_fan_speed_supply": 53.5908355713,
+        "AHU_fan_speed_extraction": 49.6998596191,
+        "AHU_temperature_supply": 17.5400009155
+      },
+      {
+        "time": "2024-09-16 17:02:00",
+        "Room_damper_opening": 0.0,
+        "AHU_pressure_supply_duct": null,
+        "AHU_pressure_extraction_duct": null,
+        "AHU_fan_speed_supply": null,
+        "AHU_fan_speed_extraction": null,
+        "AHU_temperature_supply": null
+      }
+    ],
+    "rows_scanned": 4576,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_temperature_and_power_use.csv",
+    "size_bytes": 706160545,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "Power Ch 1 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 2 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 3 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 4",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-16 16:58:30",
+        "Power Ch 1 (W)": 1268.2,
+        "Power Ch 2 (W)": 642.7,
+        "Power Ch 3 (W)": 431.3,
+        "Temperature mod 1 ch 1": 24.798231,
+        "Temperature mod 1 ch 2": 24.391578,
+        "Temperature mod 1 ch 3": 24.724849,
+        "Temperature mod 1 ch 4": 24.853324,
+        "Temperature mod 1 ch 5": 25.179579,
+        "Temperature mod 1 ch 6": 25.222412,
+        "Temperature mod 1 ch 7": 24.773052,
+        "Temperature mod 1 ch 8": 25.074035,
+        "Temperature mod 2 ch 1": 27.336795,
+        "Temperature mod 2 ch 2": 26.607783,
+        "Temperature mod 2 ch 3": 27.964209,
+        "Temperature mod 2 ch 4": 27.286095,
+        "Temperature mod 2 ch 5": 27.0625,
+        "Temperature mod 2 ch 6": 26.818395,
+        "Temperature mod 2 ch 7": 24.90205,
+        "Temperature mod 2 ch 8": 25.039144,
+        "Temperature mod 3 ch 1": 25.477444,
+        "Temperature mod 3 ch 2": 25.186845,
+        "Temperature mod 3 ch 3": 28.863302,
+        "Temperature mod 3 ch 4": 24.766045,
+        "Temperature mod 3 ch 5": 26.206671,
+        "Temperature mod 3 ch 6": 28.886839,
+        "Temperature mod 3 ch 7": 29.853681,
+        "Temperature mod 3 ch 8": 25.829131,
+        "Temperature mod 4 ch 1": 24.071714,
+        "Temperature mod 4 ch 2": 24.5712,
+        "Temperature mod 4 ch 3": 24.723084,
+        "Temperature mod 4 ch 4": 25.154584,
+        "Temperature mod 4 ch 5": 24.913335,
+        "Temperature mod 4 ch 6": 26.541345,
+        "Temperature mod 4 ch 7": 26.837122,
+        "Temperature mod 4 ch 8": 26.769025,
+        "Temperature mod 5 ch 1": 27.538253,
+        "Temperature mod 5 ch 2": 28.368185,
+        "Temperature mod 5 ch 3": 28.832379,
+        "Temperature mod 5 ch 4": 26.982218,
+        "Temperature mod 6 ch 1": 26.346714,
+        "Temperature mod 6 ch 2": 27.627231,
+        "Temperature mod 6 ch 3": 26.34259,
+        "Temperature mod 6 ch 4": 28.182567,
+        "Temperature mod 7 ch 1": 27.794631,
+        "Temperature mod 7 ch 2": 26.424289,
+        "Temperature mod 7 ch 3": 24.814838,
+        "Temperature mod 7 ch 4": 29.187404,
+        "Temperature mod 8 ch 1": 25.433781,
+        "Temperature mod 8 ch 2": 25.807776,
+        "Temperature mod 8 ch 3": 23.286057,
+        "Temperature mod 8 ch 4": 24.390488
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 16:58:30",
+        "Power Ch 1 (W)": 1268.2,
+        "Power Ch 2 (W)": 642.7,
+        "Power Ch 3 (W)": 431.3,
+        "Temperature mod 1 ch 1": 24.798231,
+        "Temperature mod 1 ch 2": 24.391578,
+        "Temperature mod 1 ch 3": 24.724849,
+        "Temperature mod 1 ch 4": 24.853324,
+        "Temperature mod 1 ch 5": 25.179579,
+        "Temperature mod 1 ch 6": 25.222412,
+        "Temperature mod 1 ch 7": 24.773052,
+        "Temperature mod 1 ch 8": 25.074035,
+        "Temperature mod 2 ch 1": 27.336795,
+        "Temperature mod 2 ch 2": 26.607783,
+        "Temperature mod 2 ch 3": 27.964209,
+        "Temperature mod 2 ch 4": 27.286095,
+        "Temperature mod 2 ch 5": 27.0625,
+        "Temperature mod 2 ch 6": 26.818395,
+        "Temperature mod 2 ch 7": 24.90205,
+        "Temperature mod 2 ch 8": 25.039144,
+        "Temperature mod 3 ch 1": 25.477444,
+        "Temperature mod 3 ch 2": 25.186845,
+        "Temperature mod 3 ch 3": 28.863302,
+        "Temperature mod 3 ch 4": 24.766045,
+        "Temperature mod 3 ch 5": 26.206671,
+        "Temperature mod 3 ch 6": 28.886839,
+        "Temperature mod 3 ch 7": 29.853681,
+        "Temperature mod 3 ch 8": 25.829131,
+        "Temperature mod 4 ch 1": 24.071714,
+        "Temperature mod 4 ch 2": 24.5712,
+        "Temperature mod 4 ch 3": 24.723084,
+        "Temperature mod 4 ch 4": 25.154584,
+        "Temperature mod 4 ch 5": 24.913335,
+        "Temperature mod 4 ch 6": 26.541345,
+        "Temperature mod 4 ch 7": 26.837122,
+        "Temperature mod 4 ch 8": 26.769025,
+        "Temperature mod 5 ch 1": 27.538253,
+        "Temperature mod 5 ch 2": 28.361563,
+        "Temperature mod 5 ch 3": 28.831765,
+        "Temperature mod 5 ch 4": 26.982679,
+        "Temperature mod 6 ch 1": 26.337607,
+        "Temperature mod 6 ch 2": 27.632477,
+        "Temperature mod 6 ch 3": 26.342897,
+        "Temperature mod 6 ch 4": 28.184878,
+        "Temperature mod 7 ch 1": 27.807237,
+        "Temperature mod 7 ch 2": 26.422906,
+        "Temperature mod 7 ch 3": 24.818216,
+        "Temperature mod 7 ch 4": 29.191405,
+        "Temperature mod 8 ch 1": 25.434863,
+        "Temperature mod 8 ch 2": 25.812099,
+        "Temperature mod 8 ch 3": 23.277904,
+        "Temperature mod 8 ch 4": 24.405808
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 16:58:30",
+        "Power Ch 1 (W)": 1268.2,
+        "Power Ch 2 (W)": 642.7,
+        "Power Ch 3 (W)": 431.3,
+        "Temperature mod 1 ch 1": 24.800536,
+        "Temperature mod 1 ch 2": 24.391732,
+        "Temperature mod 1 ch 3": 24.764501,
+        "Temperature mod 1 ch 4": 24.860181,
+        "Temperature mod 1 ch 5": 25.179116,
+        "Temperature mod 1 ch 6": 25.209805,
+        "Temperature mod 1 ch 7": 24.78581,
+        "Temperature mod 1 ch 8": 25.079374,
+        "Temperature mod 2 ch 1": 27.337413,
+        "Temperature mod 2 ch 2": 26.615636,
+        "Temperature mod 2 ch 3": 27.964517,
+        "Temperature mod 2 ch 4": 27.28486,
+        "Temperature mod 2 ch 5": 27.065727,
+        "Temperature mod 2 ch 6": 26.823792,
+        "Temperature mod 2 ch 7": 24.908653,
+        "Temperature mod 2 ch 8": 25.052676,
+        "Temperature mod 3 ch 1": 25.526366,
+        "Temperature mod 3 ch 2": 25.167282,
+        "Temperature mod 3 ch 3": 28.878578,
+        "Temperature mod 3 ch 4": 24.758494,
+        "Temperature mod 3 ch 5": 26.2167,
+        "Temperature mod 3 ch 6": 28.866029,
+        "Temperature mod 3 ch 7": 29.861535,
+        "Temperature mod 3 ch 8": 25.823286,
+        "Temperature mod 4 ch 1": 24.053048,
+        "Temperature mod 4 ch 2": 24.569513,
+        "Temperature mod 4 ch 3": 24.732611,
+        "Temperature mod 4 ch 4": 25.147047,
+        "Temperature mod 4 ch 5": 24.898726,
+        "Temperature mod 4 ch 6": 26.54657,
+        "Temperature mod 4 ch 7": 26.8405,
+        "Temperature mod 4 ch 8": 26.77487,
+        "Temperature mod 5 ch 1": 27.54117,
+        "Temperature mod 5 ch 2": 28.369879,
+        "Temperature mod 5 ch 3": 28.832993,
+        "Temperature mod 5 ch 4": 26.983294,
+        "Temperature mod 6 ch 1": 26.336681,
+        "Temperature mod 6 ch 2": 27.636644,
+        "Temperature mod 6 ch 3": 26.343358,
+        "Temperature mod 6 ch 4": 28.186727,
+        "Temperature mod 7 ch 1": 27.800012,
+        "Temperature mod 7 ch 2": 26.419217,
+        "Temperature mod 7 ch 3": 24.82144,
+        "Temperature mod 7 ch 4": 29.192483,
+        "Temperature mod 8 ch 1": 25.435636,
+        "Temperature mod 8 ch 2": 25.815031,
+        "Temperature mod 8 ch 3": 23.271135,
+        "Temperature mod 8 ch 4": 24.41107
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 16:58:30",
+        "Power Ch 1 (W)": 1268.2,
+        "Power Ch 2 (W)": 642.7,
+        "Power Ch 3 (W)": 431.3,
+        "Temperature mod 1 ch 1": 24.800536,
+        "Temperature mod 1 ch 2": 24.391732,
+        "Temperature mod 1 ch 3": 24.764501,
+        "Temperature mod 1 ch 4": 24.860181,
+        "Temperature mod 1 ch 5": 25.179116,
+        "Temperature mod 1 ch 6": 25.209805,
+        "Temperature mod 1 ch 7": 24.78581,
+        "Temperature mod 1 ch 8": 25.079374,
+        "Temperature mod 2 ch 1": 27.337413,
+        "Temperature mod 2 ch 2": 26.615636,
+        "Temperature mod 2 ch 3": 27.964517,
+        "Temperature mod 2 ch 4": 27.28486,
+        "Temperature mod 2 ch 5": 27.065727,
+        "Temperature mod 2 ch 6": 26.823792,
+        "Temperature mod 2 ch 7": 24.908653,
+        "Temperature mod 2 ch 8": 25.052676,
+        "Temperature mod 3 ch 1": 25.526366,
+        "Temperature mod 3 ch 2": 25.167282,
+        "Temperature mod 3 ch 3": 28.878578,
+        "Temperature mod 3 ch 4": 24.758494,
+        "Temperature mod 3 ch 5": 26.2167,
+        "Temperature mod 3 ch 6": 28.866029,
+        "Temperature mod 3 ch 7": 29.861535,
+        "Temperature mod 3 ch 8": 25.823286,
+        "Temperature mod 4 ch 1": 24.053048,
+        "Temperature mod 4 ch 2": 24.569513,
+        "Temperature mod 4 ch 3": 24.732611,
+        "Temperature mod 4 ch 4": 25.147047,
+        "Temperature mod 4 ch 5": 24.898726,
+        "Temperature mod 4 ch 6": 26.54657,
+        "Temperature mod 4 ch 7": 26.8405,
+        "Temperature mod 4 ch 8": 26.77487,
+        "Temperature mod 5 ch 1": 27.546851,
+        "Temperature mod 5 ch 2": 28.366337,
+        "Temperature mod 5 ch 3": 28.835911,
+        "Temperature mod 5 ch 4": 26.982679,
+        "Temperature mod 6 ch 1": 26.322479,
+        "Temperature mod 6 ch 2": 27.642353,
+        "Temperature mod 6 ch 3": 26.343358,
+        "Temperature mod 6 ch 4": 28.186418,
+        "Temperature mod 7 ch 1": 27.798474,
+        "Temperature mod 7 ch 2": 26.415836,
+        "Temperature mod 7 ch 3": 24.820058,
+        "Temperature mod 7 ch 4": 29.191098,
+        "Temperature mod 8 ch 1": 25.436099,
+        "Temperature mod 8 ch 2": 25.818582,
+        "Temperature mod 8 ch 3": 23.26329,
+        "Temperature mod 8 ch 4": 24.428093
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 16:58:30",
+        "Power Ch 1 (W)": 1268.2,
+        "Power Ch 2 (W)": 642.7,
+        "Power Ch 3 (W)": 431.3,
+        "Temperature mod 1 ch 1": 24.803916,
+        "Temperature mod 1 ch 2": 24.39543,
+        "Temperature mod 1 ch 3": 24.777924,
+        "Temperature mod 1 ch 4": 24.86735,
+        "Temperature mod 1 ch 5": 25.179889,
+        "Temperature mod 1 ch 6": 25.210112,
+        "Temperature mod 1 ch 7": 24.782121,
+        "Temperature mod 1 ch 8": 25.081268,
+        "Temperature mod 2 ch 1": 27.340037,
+        "Temperature mod 2 ch 2": 26.61656,
+        "Temperature mod 2 ch 3": 27.965596,
+        "Temperature mod 2 ch 4": 27.28764,
+        "Temperature mod 2 ch 5": 27.071566,
+        "Temperature mod 2 ch 6": 26.826722,
+        "Temperature mod 2 ch 7": 24.912645,
+        "Temperature mod 2 ch 8": 25.053599,
+        "Temperature mod 3 ch 1": 25.526366,
+        "Temperature mod 3 ch 2": 25.234821,
+        "Temperature mod 3 ch 3": 28.900336,
+        "Temperature mod 3 ch 4": 24.757877,
+        "Temperature mod 3 ch 5": 26.221482,
+        "Temperature mod 3 ch 6": 28.86495,
+        "Temperature mod 3 ch 7": 29.859071,
+        "Temperature mod 3 ch 8": 25.827285,
+        "Temperature mod 4 ch 1": 24.060144,
+        "Temperature mod 4 ch 2": 24.564145,
+        "Temperature mod 4 ch 3": 24.723852,
+        "Temperature mod 4 ch 4": 25.123513,
+        "Temperature mod 4 ch 5": 24.889499,
+        "Temperature mod 4 ch 6": 26.550719,
+        "Temperature mod 4 ch 7": 26.844338,
+        "Temperature mod 4 ch 8": 26.777638,
+        "Temperature mod 5 ch 1": 27.541938,
+        "Temperature mod 5 ch 2": 28.372498,
+        "Temperature mod 5 ch 3": 28.832225,
+        "Temperature mod 5 ch 4": 26.978529,
+        "Temperature mod 6 ch 1": 26.322943,
+        "Temperature mod 6 ch 2": 27.644205,
+        "Temperature mod 6 ch 3": 26.342897,
+        "Temperature mod 6 ch 4": 28.189192,
+        "Temperature mod 7 ch 1": 27.78341,
+        "Temperature mod 7 ch 2": 26.415068,
+        "Temperature mod 7 ch 3": 24.823743,
+        "Temperature mod 7 ch 4": 29.195407,
+        "Temperature mod 8 ch 1": 25.43749,
+        "Temperature mod 8 ch 2": 25.820897,
+        "Temperature mod 8 ch 3": 23.257906,
+        "Temperature mod 8 ch 4": 24.409213
+      }
+    ],
+    "rows_scanned": 1371363,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_temperature_and_power_use_100_percent_load_period.csv",
+    "size_bytes": 133109533,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "Power Ch 1 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 2 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 3 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 4",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-20 10:21:00",
+        "Power Ch 1 (W)": 1284.9,
+        "Power Ch 2 (W)": 684.8,
+        "Power Ch 3 (W)": 1250.8,
+        "Temperature mod 1 ch 1": 24.456816,
+        "Temperature mod 1 ch 2": 23.781909,
+        "Temperature mod 1 ch 3": 23.200244,
+        "Temperature mod 1 ch 4": 24.326614,
+        "Temperature mod 1 ch 5": 25.139551,
+        "Temperature mod 1 ch 6": 24.484488,
+        "Temperature mod 1 ch 7": 24.446281,
+        "Temperature mod 1 ch 8": 24.668356,
+        "Temperature mod 2 ch 1": 32.898572,
+        "Temperature mod 2 ch 2": 30.942151,
+        "Temperature mod 2 ch 3": 27.866524,
+        "Temperature mod 2 ch 4": 33.184215,
+        "Temperature mod 2 ch 5": 32.815433,
+        "Temperature mod 2 ch 6": 32.657809,
+        "Temperature mod 2 ch 7": 24.455429,
+        "Temperature mod 2 ch 8": 23.916934,
+        "Temperature mod 3 ch 1": 26.313848,
+        "Temperature mod 3 ch 2": 25.58651,
+        "Temperature mod 3 ch 3": 35.463844,
+        "Temperature mod 3 ch 4": 24.545692,
+        "Temperature mod 3 ch 5": 29.20093,
+        "Temperature mod 3 ch 6": 35.594579,
+        "Temperature mod 3 ch 7": 37.072846,
+        "Temperature mod 3 ch 8": 25.737149,
+        "Temperature mod 4 ch 1": 23.635027,
+        "Temperature mod 4 ch 2": 24.490842,
+        "Temperature mod 4 ch 3": 25.238805,
+        "Temperature mod 4 ch 4": 26.086064,
+        "Temperature mod 4 ch 5": 25.681083,
+        "Temperature mod 4 ch 6": 27.950671,
+        "Temperature mod 4 ch 7": 33.629301,
+        "Temperature mod 4 ch 8": 32.568584,
+        "Temperature mod 5 ch 1": 34.47845,
+        "Temperature mod 5 ch 2": 35.251133,
+        "Temperature mod 5 ch 3": 36.626073,
+        "Temperature mod 5 ch 4": 26.616554,
+        "Temperature mod 6 ch 1": 26.014078,
+        "Temperature mod 6 ch 2": 27.389908,
+        "Temperature mod 6 ch 3": 25.624742,
+        "Temperature mod 6 ch 4": 28.061625,
+        "Temperature mod 7 ch 1": 30.341083,
+        "Temperature mod 7 ch 2": 26.353597,
+        "Temperature mod 7 ch 3": 24.779065,
+        "Temperature mod 7 ch 4": 28.898842,
+        "Temperature mod 8 ch 1": 17.622944,
+        "Temperature mod 8 ch 2": 18.472462,
+        "Temperature mod 8 ch 3": 25.285395,
+        "Temperature mod 8 ch 4": 26.520225
+      },
+      {
+        "Time [Date/Time]": "2024-09-20 10:21:01",
+        "Power Ch 1 (W)": 1219.9,
+        "Power Ch 2 (W)": 685.5,
+        "Power Ch 3 (W)": 1250.1,
+        "Temperature mod 1 ch 1": 24.450363,
+        "Temperature mod 1 ch 2": 23.786531,
+        "Temperature mod 1 ch 3": 23.20595,
+        "Temperature mod 1 ch 4": 24.303709,
+        "Temperature mod 1 ch 5": 25.121623,
+        "Temperature mod 1 ch 6": 24.457433,
+        "Temperature mod 1 ch 7": 24.44751,
+        "Temperature mod 1 ch 8": 24.626344,
+        "Temperature mod 2 ch 1": 32.890531,
+        "Temperature mod 2 ch 2": 30.92735,
+        "Temperature mod 2 ch 3": 27.870684,
+        "Temperature mod 2 ch 4": 33.150478,
+        "Temperature mod 2 ch 5": 32.829441,
+        "Temperature mod 2 ch 6": 32.646377,
+        "Temperature mod 2 ch 7": 24.446371,
+        "Temperature mod 2 ch 8": 23.927695,
+        "Temperature mod 3 ch 1": 26.30613,
+        "Temperature mod 3 ch 2": 25.519896,
+        "Temperature mod 3 ch 3": 35.457196,
+        "Temperature mod 3 ch 4": 24.520884,
+        "Temperature mod 3 ch 5": 29.204945,
+        "Temperature mod 3 ch 6": 35.580833,
+        "Temperature mod 3 ch 7": 37.084884,
+        "Temperature mod 3 ch 8": 25.760221,
+        "Temperature mod 4 ch 1": 23.648137,
+        "Temperature mod 4 ch 2": 24.490842,
+        "Temperature mod 4 ch 3": 25.221132,
+        "Temperature mod 4 ch 4": 26.054523,
+        "Temperature mod 4 ch 5": 25.638323,
+        "Temperature mod 4 ch 6": 27.948518,
+        "Temperature mod 4 ch 7": 33.628993,
+        "Temperature mod 4 ch 8": 32.586764,
+        "Temperature mod 5 ch 1": 34.489066,
+        "Temperature mod 5 ch 2": 35.244342,
+        "Temperature mod 5 ch 3": 36.617146,
+        "Temperature mod 5 ch 4": 26.612712,
+        "Temperature mod 6 ch 1": 26.008676,
+        "Temperature mod 6 ch 2": 27.382811,
+        "Temperature mod 6 ch 3": 25.630276,
+        "Temperature mod 6 ch 4": 28.065015,
+        "Temperature mod 7 ch 1": 30.28124,
+        "Temperature mod 7 ch 2": 26.351599,
+        "Temperature mod 7 ch 3": 24.773845,
+        "Temperature mod 7 ch 4": 28.890839,
+        "Temperature mod 8 ch 1": 17.611072,
+        "Temperature mod 8 ch 2": 18.447202,
+        "Temperature mod 8 ch 3": 25.343887,
+        "Temperature mod 8 ch 4": 26.441563
+      },
+      {
+        "Time [Date/Time]": "2024-09-20 10:21:02",
+        "Power Ch 1 (W)": 1244.2,
+        "Power Ch 2 (W)": 688.4,
+        "Power Ch 3 (W)": 1249.8,
+        "Temperature mod 1 ch 1": 24.450363,
+        "Temperature mod 1 ch 2": 23.786531,
+        "Temperature mod 1 ch 3": 23.20595,
+        "Temperature mod 1 ch 4": 24.303709,
+        "Temperature mod 1 ch 5": 25.121623,
+        "Temperature mod 1 ch 6": 24.457433,
+        "Temperature mod 1 ch 7": 24.44751,
+        "Temperature mod 1 ch 8": 24.626344,
+        "Temperature mod 2 ch 1": 32.890531,
+        "Temperature mod 2 ch 2": 30.92735,
+        "Temperature mod 2 ch 3": 27.870684,
+        "Temperature mod 2 ch 4": 33.150478,
+        "Temperature mod 2 ch 5": 32.829441,
+        "Temperature mod 2 ch 6": 32.646377,
+        "Temperature mod 2 ch 7": 24.446371,
+        "Temperature mod 2 ch 8": 23.927695,
+        "Temperature mod 3 ch 1": 26.30613,
+        "Temperature mod 3 ch 2": 25.519896,
+        "Temperature mod 3 ch 3": 35.457196,
+        "Temperature mod 3 ch 4": 24.520884,
+        "Temperature mod 3 ch 5": 29.204945,
+        "Temperature mod 3 ch 6": 35.580833,
+        "Temperature mod 3 ch 7": 37.084884,
+        "Temperature mod 3 ch 8": 25.760221,
+        "Temperature mod 4 ch 1": 23.648137,
+        "Temperature mod 4 ch 2": 24.490842,
+        "Temperature mod 4 ch 3": 25.221132,
+        "Temperature mod 4 ch 4": 26.054523,
+        "Temperature mod 4 ch 5": 25.638323,
+        "Temperature mod 4 ch 6": 27.948518,
+        "Temperature mod 4 ch 7": 33.628993,
+        "Temperature mod 4 ch 8": 32.586764,
+        "Temperature mod 5 ch 1": 34.480758,
+        "Temperature mod 5 ch 2": 35.242799,
+        "Temperature mod 5 ch 3": 36.612067,
+        "Temperature mod 5 ch 4": 26.615325,
+        "Temperature mod 6 ch 1": 26.001576,
+        "Temperature mod 6 ch 2": 27.384508,
+        "Temperature mod 6 ch 3": 25.627816,
+        "Temperature mod 6 ch 4": 28.064553,
+        "Temperature mod 7 ch 1": 30.24232,
+        "Temperature mod 7 ch 2": 26.346835,
+        "Temperature mod 7 ch 3": 24.766015,
+        "Temperature mod 7 ch 4": 28.872372,
+        "Temperature mod 8 ch 1": 17.598892,
+        "Temperature mod 8 ch 2": 18.424869,
+        "Temperature mod 8 ch 3": 25.39653,
+        "Temperature mod 8 ch 4": 26.42995
+      },
+      {
+        "Time [Date/Time]": "2024-09-20 10:21:03",
+        "Power Ch 1 (W)": 1242.5,
+        "Power Ch 2 (W)": 676.7,
+        "Power Ch 3 (W)": 1250.8,
+        "Temperature mod 1 ch 1": 24.443757,
+        "Temperature mod 1 ch 2": 23.786993,
+        "Temperature mod 1 ch 3": 23.208572,
+        "Temperature mod 1 ch 4": 24.289218,
+        "Temperature mod 1 ch 5": 25.097204,
+        "Temperature mod 1 ch 6": 24.40517,
+        "Temperature mod 1 ch 7": 24.441824,
+        "Temperature mod 1 ch 8": 24.60069,
+        "Temperature mod 2 ch 1": 32.865326,
+        "Temperature mod 2 ch 2": 30.908078,
+        "Temperature mod 2 ch 3": 27.874382,
+        "Temperature mod 2 ch 4": 33.165644,
+        "Temperature mod 2 ch 5": 32.881317,
+        "Temperature mod 2 ch 6": 32.646223,
+        "Temperature mod 2 ch 7": 24.43194,
+        "Temperature mod 2 ch 8": 23.938148,
+        "Temperature mod 3 ch 1": 26.281431,
+        "Temperature mod 3 ch 2": 25.489462,
+        "Temperature mod 3 ch 3": 35.423182,
+        "Temperature mod 3 ch 4": 24.480976,
+        "Temperature mod 3 ch 5": 29.211894,
+        "Temperature mod 3 ch 6": 35.576199,
+        "Temperature mod 3 ch 7": 37.091674,
+        "Temperature mod 3 ch 8": 25.722999,
+        "Temperature mod 4 ch 1": 23.642585,
+        "Temperature mod 4 ch 2": 24.484402,
+        "Temperature mod 4 ch 3": 25.201307,
+        "Temperature mod 4 ch 4": 26.049446,
+        "Temperature mod 4 ch 5": 25.599101,
+        "Temperature mod 4 ch 6": 27.923459,
+        "Temperature mod 4 ch 7": 33.635146,
+        "Temperature mod 4 ch 8": 32.585839,
+        "Temperature mod 5 ch 1": 34.49199,
+        "Temperature mod 5 ch 2": 35.238014,
+        "Temperature mod 5 ch 3": 36.608989,
+        "Temperature mod 5 ch 4": 26.62301,
+        "Temperature mod 6 ch 1": 25.99216,
+        "Temperature mod 6 ch 2": 27.373707,
+        "Temperature mod 6 ch 3": 25.619978,
+        "Temperature mod 6 ch 4": 28.070869,
+        "Temperature mod 7 ch 1": 30.231551,
+        "Temperature mod 7 ch 2": 26.34453,
+        "Temperature mod 7 ch 3": 24.75926,
+        "Temperature mod 7 ch 4": 28.867755,
+        "Temperature mod 8 ch 1": 17.578233,
+        "Temperature mod 8 ch 2": 18.399763,
+        "Temperature mod 8 ch 3": 25.340808,
+        "Temperature mod 8 ch 4": 26.478726
+      },
+      {
+        "Time [Date/Time]": "2024-09-20 10:21:04",
+        "Power Ch 1 (W)": 1217.0,
+        "Power Ch 2 (W)": 674.4,
+        "Power Ch 3 (W)": 1251.0,
+        "Temperature mod 1 ch 1": 24.443757,
+        "Temperature mod 1 ch 2": 23.786993,
+        "Temperature mod 1 ch 3": 23.208572,
+        "Temperature mod 1 ch 4": 24.289218,
+        "Temperature mod 1 ch 5": 25.097204,
+        "Temperature mod 1 ch 6": 24.40517,
+        "Temperature mod 1 ch 7": 24.441824,
+        "Temperature mod 1 ch 8": 24.60069,
+        "Temperature mod 2 ch 1": 32.865326,
+        "Temperature mod 2 ch 2": 30.908078,
+        "Temperature mod 2 ch 3": 27.874382,
+        "Temperature mod 2 ch 4": 33.165644,
+        "Temperature mod 2 ch 5": 32.881317,
+        "Temperature mod 2 ch 6": 32.646223,
+        "Temperature mod 2 ch 7": 24.43194,
+        "Temperature mod 2 ch 8": 23.938148,
+        "Temperature mod 3 ch 1": 26.281431,
+        "Temperature mod 3 ch 2": 25.489462,
+        "Temperature mod 3 ch 3": 35.423182,
+        "Temperature mod 3 ch 4": 24.480976,
+        "Temperature mod 3 ch 5": 29.211894,
+        "Temperature mod 3 ch 6": 35.576199,
+        "Temperature mod 3 ch 7": 37.091674,
+        "Temperature mod 3 ch 8": 25.722999,
+        "Temperature mod 4 ch 1": 23.642585,
+        "Temperature mod 4 ch 2": 24.484402,
+        "Temperature mod 4 ch 3": 25.201307,
+        "Temperature mod 4 ch 4": 26.049446,
+        "Temperature mod 4 ch 5": 25.599101,
+        "Temperature mod 4 ch 6": 27.923459,
+        "Temperature mod 4 ch 7": 33.635146,
+        "Temperature mod 4 ch 8": 32.585839,
+        "Temperature mod 5 ch 1": 34.500606,
+        "Temperature mod 5 ch 2": 35.233076,
+        "Temperature mod 5 ch 3": 36.598984,
+        "Temperature mod 5 ch 4": 26.619167,
+        "Temperature mod 6 ch 1": 26.002965,
+        "Temperature mod 6 ch 2": 27.369541,
+        "Temperature mod 6 ch 3": 25.625511,
+        "Temperature mod 6 ch 4": 28.076107,
+        "Temperature mod 7 ch 1": 30.212784,
+        "Temperature mod 7 ch 2": 26.345452,
+        "Temperature mod 7 ch 3": 24.755114,
+        "Temperature mod 7 ch 4": 28.861446,
+        "Temperature mod 8 ch 1": 17.56112,
+        "Temperature mod 8 ch 2": 18.382666,
+        "Temperature mod 8 ch 3": 25.303712,
+        "Temperature mod 8 ch 4": 26.515115
+      }
+    ],
+    "rows_scanned": 258123,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_temperature_and_power_use_25_percent_load_period.csv",
+    "size_bytes": 46786437,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "Power Ch 1 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 2 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 3 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 4",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-17 09:40:00",
+        "Power Ch 1 (W)": 1199.8,
+        "Power Ch 2 (W)": 639.5,
+        "Power Ch 3 (W)": 737.2,
+        "Temperature mod 1 ch 1": 23.165533,
+        "Temperature mod 1 ch 2": 23.317297,
+        "Temperature mod 1 ch 3": 22.52963,
+        "Temperature mod 1 ch 4": 22.721585,
+        "Temperature mod 1 ch 5": 23.057618,
+        "Temperature mod 1 ch 6": 22.772665,
+        "Temperature mod 1 ch 7": 22.931959,
+        "Temperature mod 1 ch 8": 22.86967,
+        "Temperature mod 2 ch 1": 29.295201,
+        "Temperature mod 2 ch 2": 26.741285,
+        "Temperature mod 2 ch 3": 27.657298,
+        "Temperature mod 2 ch 4": 30.099503,
+        "Temperature mod 2 ch 5": 29.181193,
+        "Temperature mod 2 ch 6": 29.825663,
+        "Temperature mod 2 ch 7": 23.384945,
+        "Temperature mod 2 ch 8": 24.741912,
+        "Temperature mod 3 ch 1": 24.754652,
+        "Temperature mod 3 ch 2": 24.077998,
+        "Temperature mod 3 ch 3": 29.962776,
+        "Temperature mod 3 ch 4": 25.019083,
+        "Temperature mod 3 ch 5": 29.112294,
+        "Temperature mod 3 ch 6": 30.617423,
+        "Temperature mod 3 ch 7": 31.232427,
+        "Temperature mod 3 ch 8": 25.735304,
+        "Temperature mod 4 ch 1": 22.995447,
+        "Temperature mod 4 ch 2": 23.181626,
+        "Temperature mod 4 ch 3": 23.532433,
+        "Temperature mod 4 ch 4": 24.381905,
+        "Temperature mod 4 ch 5": 24.025691,
+        "Temperature mod 4 ch 6": 28.670394,
+        "Temperature mod 4 ch 7": 29.311041,
+        "Temperature mod 4 ch 8": 29.123137,
+        "Temperature mod 5 ch 1": 29.848161,
+        "Temperature mod 5 ch 2": 30.319986,
+        "Temperature mod 5 ch 3": 31.067551,
+        "Temperature mod 5 ch 4": 26.764567,
+        "Temperature mod 6 ch 1": 24.98643,
+        "Temperature mod 6 ch 2": 27.430027,
+        "Temperature mod 6 ch 3": 25.310752,
+        "Temperature mod 6 ch 4": 28.009398,
+        "Temperature mod 7 ch 1": 26.975545,
+        "Temperature mod 7 ch 2": 25.388034,
+        "Temperature mod 7 ch 3": 23.549359,
+        "Temperature mod 7 ch 4": 28.042689,
+        "Temperature mod 8 ch 1": 17.057634,
+        "Temperature mod 8 ch 2": 17.345637,
+        "Temperature mod 8 ch 3": 20.340532,
+        "Temperature mod 8 ch 4": 21.525399
+      },
+      {
+        "Time [Date/Time]": "2024-09-17 09:40:01",
+        "Power Ch 1 (W)": 1329.6,
+        "Power Ch 2 (W)": 644.1,
+        "Power Ch 3 (W)": 740.0,
+        "Temperature mod 1 ch 1": 23.165533,
+        "Temperature mod 1 ch 2": 23.317297,
+        "Temperature mod 1 ch 3": 22.52963,
+        "Temperature mod 1 ch 4": 22.721585,
+        "Temperature mod 1 ch 5": 23.057618,
+        "Temperature mod 1 ch 6": 22.772665,
+        "Temperature mod 1 ch 7": 22.931959,
+        "Temperature mod 1 ch 8": 22.86967,
+        "Temperature mod 2 ch 1": 29.295201,
+        "Temperature mod 2 ch 2": 26.741285,
+        "Temperature mod 2 ch 3": 27.657298,
+        "Temperature mod 2 ch 4": 30.099503,
+        "Temperature mod 2 ch 5": 29.181193,
+        "Temperature mod 2 ch 6": 29.825663,
+        "Temperature mod 2 ch 7": 23.384945,
+        "Temperature mod 2 ch 8": 24.741912,
+        "Temperature mod 3 ch 1": 24.754652,
+        "Temperature mod 3 ch 2": 24.077998,
+        "Temperature mod 3 ch 3": 29.962776,
+        "Temperature mod 3 ch 4": 25.019083,
+        "Temperature mod 3 ch 5": 29.112294,
+        "Temperature mod 3 ch 6": 30.617423,
+        "Temperature mod 3 ch 7": 31.232427,
+        "Temperature mod 3 ch 8": 25.735304,
+        "Temperature mod 4 ch 1": 22.995447,
+        "Temperature mod 4 ch 2": 23.181626,
+        "Temperature mod 4 ch 3": 23.532433,
+        "Temperature mod 4 ch 4": 24.381905,
+        "Temperature mod 4 ch 5": 24.025691,
+        "Temperature mod 4 ch 6": 28.670394,
+        "Temperature mod 4 ch 7": 29.311041,
+        "Temperature mod 4 ch 8": 29.123137,
+        "Temperature mod 5 ch 1": 29.825422,
+        "Temperature mod 5 ch 2": 30.315825,
+        "Temperature mod 5 ch 3": 31.064939,
+        "Temperature mod 5 ch 4": 26.763338,
+        "Temperature mod 6 ch 1": 24.980103,
+        "Temperature mod 6 ch 2": 27.427712,
+        "Temperature mod 6 ch 3": 25.310137,
+        "Temperature mod 6 ch 4": 28.008782,
+        "Temperature mod 7 ch 1": 26.937278,
+        "Temperature mod 7 ch 2": 25.388802,
+        "Temperature mod 7 ch 3": 23.548284,
+        "Temperature mod 7 ch 4": 28.031765,
+        "Temperature mod 8 ch 1": 17.134555,
+        "Temperature mod 8 ch 2": 17.405842,
+        "Temperature mod 8 ch 3": 20.333308,
+        "Temperature mod 8 ch 4": 21.542717
+      },
+      {
+        "Time [Date/Time]": "2024-09-17 09:40:02",
+        "Power Ch 1 (W)": 1436.6,
+        "Power Ch 2 (W)": 639.8,
+        "Power Ch 3 (W)": 738.2,
+        "Temperature mod 1 ch 1": 23.166915,
+        "Temperature mod 1 ch 2": 23.316835,
+        "Temperature mod 1 ch 3": 22.527009,
+        "Temperature mod 1 ch 4": 22.721896,
+        "Temperature mod 1 ch 5": 23.051131,
+        "Temperature mod 1 ch 6": 22.777428,
+        "Temperature mod 1 ch 7": 22.936568,
+        "Temperature mod 1 ch 8": 22.871907,
+        "Temperature mod 2 ch 1": 29.296128,
+        "Temperature mod 2 ch 2": 26.722961,
+        "Temperature mod 2 ch 3": 27.643124,
+        "Temperature mod 2 ch 4": 30.092545,
+        "Temperature mod 2 ch 5": 29.189035,
+        "Temperature mod 2 ch 6": 29.804671,
+        "Temperature mod 2 ch 7": 23.383257,
+        "Temperature mod 2 ch 8": 24.722384,
+        "Temperature mod 3 ch 1": 24.744931,
+        "Temperature mod 3 ch 2": 24.097555,
+        "Temperature mod 3 ch 3": 29.955367,
+        "Temperature mod 3 ch 4": 25.022319,
+        "Temperature mod 3 ch 5": 29.117081,
+        "Temperature mod 3 ch 6": 30.614801,
+        "Temperature mod 3 ch 7": 31.244136,
+        "Temperature mod 3 ch 8": 25.749301,
+        "Temperature mod 4 ch 1": 23.00362,
+        "Temperature mod 4 ch 2": 23.180247,
+        "Temperature mod 4 ch 3": 23.507242,
+        "Temperature mod 4 ch 4": 24.370986,
+        "Temperature mod 4 ch 5": 24.042449,
+        "Temperature mod 4 ch 6": 28.679159,
+        "Temperature mod 4 ch 7": 29.310426,
+        "Temperature mod 4 ch 8": 29.103745,
+        "Temperature mod 5 ch 1": 29.815127,
+        "Temperature mod 5 ch 2": 30.311818,
+        "Temperature mod 5 ch 3": 31.061098,
+        "Temperature mod 5 ch 4": 26.761032,
+        "Temperature mod 6 ch 1": 24.978406,
+        "Temperature mod 6 ch 2": 27.424318,
+        "Temperature mod 6 ch 3": 25.312135,
+        "Temperature mod 6 ch 4": 28.008474,
+        "Temperature mod 7 ch 1": 26.938815,
+        "Temperature mod 7 ch 2": 25.388802,
+        "Temperature mod 7 ch 3": 23.548591,
+        "Temperature mod 7 ch 4": 28.026842,
+        "Temperature mod 8 ch 1": 17.275145,
+        "Temperature mod 8 ch 2": 17.554742,
+        "Temperature mod 8 ch 3": 20.333615,
+        "Temperature mod 8 ch 4": 21.507618
+      },
+      {
+        "Time [Date/Time]": "2024-09-17 09:40:03",
+        "Power Ch 1 (W)": 1420.3,
+        "Power Ch 2 (W)": 640.5,
+        "Power Ch 3 (W)": 737.6,
+        "Temperature mod 1 ch 1": 23.166915,
+        "Temperature mod 1 ch 2": 23.316835,
+        "Temperature mod 1 ch 3": 22.527009,
+        "Temperature mod 1 ch 4": 22.721896,
+        "Temperature mod 1 ch 5": 23.051131,
+        "Temperature mod 1 ch 6": 22.777428,
+        "Temperature mod 1 ch 7": 22.936568,
+        "Temperature mod 1 ch 8": 22.871907,
+        "Temperature mod 2 ch 1": 29.296128,
+        "Temperature mod 2 ch 2": 26.722961,
+        "Temperature mod 2 ch 3": 27.643124,
+        "Temperature mod 2 ch 4": 30.092545,
+        "Temperature mod 2 ch 5": 29.189035,
+        "Temperature mod 2 ch 6": 29.804671,
+        "Temperature mod 2 ch 7": 23.383257,
+        "Temperature mod 2 ch 8": 24.722384,
+        "Temperature mod 3 ch 1": 24.744931,
+        "Temperature mod 3 ch 2": 24.097555,
+        "Temperature mod 3 ch 3": 29.955367,
+        "Temperature mod 3 ch 4": 25.022319,
+        "Temperature mod 3 ch 5": 29.117081,
+        "Temperature mod 3 ch 6": 30.614801,
+        "Temperature mod 3 ch 7": 31.244136,
+        "Temperature mod 3 ch 8": 25.749301,
+        "Temperature mod 4 ch 1": 23.00362,
+        "Temperature mod 4 ch 2": 23.180247,
+        "Temperature mod 4 ch 3": 23.507242,
+        "Temperature mod 4 ch 4": 24.370986,
+        "Temperature mod 4 ch 5": 24.042449,
+        "Temperature mod 4 ch 6": 28.679159,
+        "Temperature mod 4 ch 7": 29.310426,
+        "Temperature mod 4 ch 8": 29.103745,
+        "Temperature mod 5 ch 1": 29.797151,
+        "Temperature mod 5 ch 2": 30.310431,
+        "Temperature mod 5 ch 3": 31.060329,
+        "Temperature mod 5 ch 4": 26.765028,
+        "Temperature mod 6 ch 1": 24.96992,
+        "Temperature mod 6 ch 2": 27.423392,
+        "Temperature mod 6 ch 3": 25.308754,
+        "Temperature mod 6 ch 4": 28.006471,
+        "Temperature mod 7 ch 1": 26.993526,
+        "Temperature mod 7 ch 2": 25.393257,
+        "Temperature mod 7 ch 3": 23.546443,
+        "Temperature mod 7 ch 4": 28.02038,
+        "Temperature mod 8 ch 1": 17.497602,
+        "Temperature mod 8 ch 2": 17.717354,
+        "Temperature mod 8 ch 3": 20.381569,
+        "Temperature mod 8 ch 4": 21.50066
+      },
+      {
+        "Time [Date/Time]": "2024-09-17 09:40:04",
+        "Power Ch 1 (W)": 1404.9,
+        "Power Ch 2 (W)": 640.5,
+        "Power Ch 3 (W)": 737.0,
+        "Temperature mod 1 ch 1": 23.169526,
+        "Temperature mod 1 ch 2": 23.320994,
+        "Temperature mod 1 ch 3": 22.536414,
+        "Temperature mod 1 ch 4": 22.723142,
+        "Temperature mod 1 ch 5": 23.053293,
+        "Temperature mod 1 ch 6": 22.778196,
+        "Temperature mod 1 ch 7": 22.935339,
+        "Temperature mod 1 ch 8": 22.88447,
+        "Temperature mod 2 ch 1": 29.293965,
+        "Temperature mod 2 ch 2": 26.705099,
+        "Temperature mod 2 ch 3": 27.644048,
+        "Temperature mod 2 ch 4": 30.100121,
+        "Temperature mod 2 ch 5": 29.178579,
+        "Temperature mod 2 ch 6": 29.779049,
+        "Temperature mod 2 ch 7": 23.382643,
+        "Temperature mod 2 ch 8": 24.714389,
+        "Temperature mod 3 ch 1": 24.786591,
+        "Temperature mod 3 ch 2": 24.122544,
+        "Temperature mod 3 ch 3": 29.953669,
+        "Temperature mod 3 ch 4": 24.996891,
+        "Temperature mod 3 ch 5": 29.128353,
+        "Temperature mod 3 ch 6": 30.612025,
+        "Temperature mod 3 ch 7": 31.243828,
+        "Temperature mod 3 ch 8": 25.785908,
+        "Temperature mod 4 ch 1": 23.003157,
+        "Temperature mod 4 ch 2": 23.1804,
+        "Temperature mod 4 ch 3": 23.514308,
+        "Temperature mod 4 ch 4": 24.395284,
+        "Temperature mod 4 ch 5": 24.051366,
+        "Temperature mod 4 ch 6": 28.690538,
+        "Temperature mod 4 ch 7": 29.300287,
+        "Temperature mod 4 ch 8": 29.118058,
+        "Temperature mod 5 ch 1": 29.801453,
+        "Temperature mod 5 ch 2": 30.301339,
+        "Temperature mod 5 ch 3": 31.056795,
+        "Temperature mod 5 ch 4": 26.765643,
+        "Temperature mod 6 ch 1": 24.967296,
+        "Temperature mod 6 ch 2": 27.418146,
+        "Temperature mod 6 ch 3": 25.309368,
+        "Temperature mod 6 ch 4": 27.999539,
+        "Temperature mod 7 ch 1": 27.005668,
+        "Temperature mod 7 ch 2": 25.395254,
+        "Temperature mod 7 ch 3": 23.544141,
+        "Temperature mod 7 ch 4": 28.020226,
+        "Temperature mod 8 ch 1": 17.734567,
+        "Temperature mod 8 ch 2": 17.878588,
+        "Temperature mod 8 ch 3": 20.399091,
+        "Temperature mod 8 ch 4": 21.51071
+      }
+    ],
+    "rows_scanned": 90902,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_temperature_and_power_use_50_percent_load_period.csv",
+    "size_bytes": 39681966,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "Power Ch 1 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 2 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 3 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 4",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-18 11:25:00",
+        "Power Ch 1 (W)": 1254.1,
+        "Power Ch 2 (W)": 644.0,
+        "Power Ch 3 (W)": 909.3,
+        "Temperature mod 1 ch 1": 22.839027,
+        "Temperature mod 1 ch 2": 23.018014,
+        "Temperature mod 1 ch 3": 22.194912,
+        "Temperature mod 1 ch 4": 22.340029,
+        "Temperature mod 1 ch 5": 22.888648,
+        "Temperature mod 1 ch 6": 22.454801,
+        "Temperature mod 1 ch 7": 22.705369,
+        "Temperature mod 1 ch 8": 22.562314,
+        "Temperature mod 2 ch 1": 30.25289,
+        "Temperature mod 2 ch 2": 26.876333,
+        "Temperature mod 2 ch 3": 27.524958,
+        "Temperature mod 2 ch 4": 31.380718,
+        "Temperature mod 2 ch 5": 30.498,
+        "Temperature mod 2 ch 6": 30.826316,
+        "Temperature mod 2 ch 7": 23.048859,
+        "Temperature mod 2 ch 8": 24.788655,
+        "Temperature mod 3 ch 1": 24.788442,
+        "Temperature mod 3 ch 2": 24.075049,
+        "Temperature mod 3 ch 3": 31.19417,
+        "Temperature mod 3 ch 4": 24.810271,
+        "Temperature mod 3 ch 5": 30.180557,
+        "Temperature mod 3 ch 6": 32.256008,
+        "Temperature mod 3 ch 7": 33.154467,
+        "Temperature mod 3 ch 8": 25.485367,
+        "Temperature mod 4 ch 1": 22.785107,
+        "Temperature mod 4 ch 2": 23.01163,
+        "Temperature mod 4 ch 3": 23.503095,
+        "Temperature mod 4 ch 4": 24.533228,
+        "Temperature mod 4 ch 5": 24.249079,
+        "Temperature mod 4 ch 6": 28.915975,
+        "Temperature mod 4 ch 7": 30.405375,
+        "Temperature mod 4 ch 8": 30.442999,
+        "Temperature mod 5 ch 1": 30.885135,
+        "Temperature mod 5 ch 2": 31.444529,
+        "Temperature mod 5 ch 3": 32.754556,
+        "Temperature mod 5 ch 4": 26.385864,
+        "Temperature mod 6 ch 1": 24.942146,
+        "Temperature mod 6 ch 2": 27.655933,
+        "Temperature mod 6 ch 3": 25.797965,
+        "Temperature mod 6 ch 4": 27.691125,
+        "Temperature mod 7 ch 1": 27.463837,
+        "Temperature mod 7 ch 2": 25.297085,
+        "Temperature mod 7 ch 3": 23.424587,
+        "Temperature mod 7 ch 4": 27.836838,
+        "Temperature mod 8 ch 1": 17.068733,
+        "Temperature mod 8 ch 2": 17.248788,
+        "Temperature mod 8 ch 3": 20.034994,
+        "Temperature mod 8 ch 4": 20.969121
+      },
+      {
+        "Time [Date/Time]": "2024-09-18 11:25:01",
+        "Power Ch 1 (W)": 1380.2,
+        "Power Ch 2 (W)": 644.8,
+        "Power Ch 3 (W)": 909.4,
+        "Temperature mod 1 ch 1": 22.845784,
+        "Temperature mod 1 ch 2": 23.01632,
+        "Temperature mod 1 ch 3": 22.2037,
+        "Temperature mod 1 ch 4": 22.339406,
+        "Temperature mod 1 ch 5": 22.884941,
+        "Temperature mod 1 ch 6": 22.462789,
+        "Temperature mod 1 ch 7": 22.713818,
+        "Temperature mod 1 ch 8": 22.5661,
+        "Temperature mod 2 ch 1": 30.248564,
+        "Temperature mod 2 ch 2": 26.871251,
+        "Temperature mod 2 ch 3": 27.52804,
+        "Temperature mod 2 ch 4": 31.366334,
+        "Temperature mod 2 ch 5": 30.499846,
+        "Temperature mod 2 ch 6": 30.832955,
+        "Temperature mod 2 ch 7": 23.046864,
+        "Temperature mod 2 ch 8": 24.768205,
+        "Temperature mod 3 ch 1": 24.808038,
+        "Temperature mod 3 ch 2": 24.086845,
+        "Temperature mod 3 ch 3": 31.196332,
+        "Temperature mod 3 ch 4": 24.793782,
+        "Temperature mod 3 ch 5": 30.191524,
+        "Temperature mod 3 ch 6": 32.265575,
+        "Temperature mod 3 ch 7": 33.148918,
+        "Temperature mod 3 ch 8": 25.514128,
+        "Temperature mod 4 ch 1": 22.793126,
+        "Temperature mod 4 ch 2": 23.012856,
+        "Temperature mod 4 ch 3": 23.533662,
+        "Temperature mod 4 ch 4": 24.540456,
+        "Temperature mod 4 ch 5": 24.248157,
+        "Temperature mod 4 ch 6": 28.941349,
+        "Temperature mod 4 ch 7": 30.411061,
+        "Temperature mod 4 ch 8": 30.452545,
+        "Temperature mod 5 ch 1": 30.885596,
+        "Temperature mod 5 ch 2": 31.444529,
+        "Temperature mod 5 ch 3": 32.749022,
+        "Temperature mod 5 ch 4": 26.386325,
+        "Temperature mod 6 ch 1": 24.935048,
+        "Temperature mod 6 ch 2": 27.654853,
+        "Temperature mod 6 ch 3": 25.807187,
+        "Temperature mod 6 ch 4": 27.691433,
+        "Temperature mod 7 ch 1": 27.486586,
+        "Temperature mod 7 ch 2": 25.300003,
+        "Temperature mod 7 ch 3": 23.425661,
+        "Temperature mod 7 ch 4": 27.834838,
+        "Temperature mod 8 ch 1": 17.069504,
+        "Temperature mod 8 ch 2": 17.245862,
+        "Temperature mod 8 ch 3": 20.089245,
+        "Temperature mod 8 ch 4": 21.004833
+      },
+      {
+        "Time [Date/Time]": "2024-09-18 11:25:02",
+        "Power Ch 1 (W)": 1371.1,
+        "Power Ch 2 (W)": 641.0,
+        "Power Ch 3 (W)": 908.6,
+        "Temperature mod 1 ch 1": 22.845784,
+        "Temperature mod 1 ch 2": 23.01632,
+        "Temperature mod 1 ch 3": 22.2037,
+        "Temperature mod 1 ch 4": 22.339406,
+        "Temperature mod 1 ch 5": 22.884941,
+        "Temperature mod 1 ch 6": 22.462789,
+        "Temperature mod 1 ch 7": 22.713818,
+        "Temperature mod 1 ch 8": 22.5661,
+        "Temperature mod 2 ch 1": 30.248564,
+        "Temperature mod 2 ch 2": 26.871251,
+        "Temperature mod 2 ch 3": 27.52804,
+        "Temperature mod 2 ch 4": 31.366334,
+        "Temperature mod 2 ch 5": 30.499846,
+        "Temperature mod 2 ch 6": 30.832955,
+        "Temperature mod 2 ch 7": 23.046864,
+        "Temperature mod 2 ch 8": 24.768205,
+        "Temperature mod 3 ch 1": 24.808038,
+        "Temperature mod 3 ch 2": 24.086845,
+        "Temperature mod 3 ch 3": 31.196332,
+        "Temperature mod 3 ch 4": 24.793782,
+        "Temperature mod 3 ch 5": 30.191524,
+        "Temperature mod 3 ch 6": 32.265575,
+        "Temperature mod 3 ch 7": 33.148918,
+        "Temperature mod 3 ch 8": 25.514128,
+        "Temperature mod 4 ch 1": 22.793126,
+        "Temperature mod 4 ch 2": 23.012856,
+        "Temperature mod 4 ch 3": 23.533662,
+        "Temperature mod 4 ch 4": 24.540456,
+        "Temperature mod 4 ch 5": 24.248157,
+        "Temperature mod 4 ch 6": 28.941349,
+        "Temperature mod 4 ch 7": 30.411061,
+        "Temperature mod 4 ch 8": 30.452545,
+        "Temperature mod 5 ch 1": 30.862388,
+        "Temperature mod 5 ch 2": 31.446071,
+        "Temperature mod 5 ch 3": 32.746101,
+        "Temperature mod 5 ch 4": 26.383866,
+        "Temperature mod 6 ch 1": 24.940448,
+        "Temperature mod 6 ch 2": 27.65547,
+        "Temperature mod 6 ch 3": 25.815948,
+        "Temperature mod 6 ch 4": 27.695438,
+        "Temperature mod 7 ch 1": 27.525475,
+        "Temperature mod 7 ch 2": 25.297238,
+        "Temperature mod 7 ch 3": 23.42873,
+        "Temperature mod 7 ch 4": 27.83053,
+        "Temperature mod 8 ch 1": 17.065342,
+        "Temperature mod 8 ch 2": 17.248326,
+        "Temperature mod 8 ch 3": 20.109532,
+        "Temperature mod 8 ch 4": 21.037916
+      },
+      {
+        "Time [Date/Time]": "2024-09-18 11:25:03",
+        "Power Ch 1 (W)": 1267.9,
+        "Power Ch 2 (W)": 642.5,
+        "Power Ch 3 (W)": 909.6,
+        "Temperature mod 1 ch 1": 22.856995,
+        "Temperature mod 1 ch 2": 23.015858,
+        "Temperature mod 1 ch 3": 22.204779,
+        "Temperature mod 1 ch 4": 22.340807,
+        "Temperature mod 1 ch 5": 22.886177,
+        "Temperature mod 1 ch 6": 22.471853,
+        "Temperature mod 1 ch 7": 22.726261,
+        "Temperature mod 1 ch 8": 22.582276,
+        "Temperature mod 2 ch 1": 30.246864,
+        "Temperature mod 2 ch 2": 26.872329,
+        "Temperature mod 2 ch 3": 27.541751,
+        "Temperature mod 2 ch 4": 31.347155,
+        "Temperature mod 2 ch 5": 30.497692,
+        "Temperature mod 2 ch 6": 30.807634,
+        "Temperature mod 2 ch 7": 23.046096,
+        "Temperature mod 2 ch 8": 24.764053,
+        "Temperature mod 3 ch 1": 24.814981,
+        "Temperature mod 3 ch 2": 24.089018,
+        "Temperature mod 3 ch 3": 31.199111,
+        "Temperature mod 3 ch 4": 24.743238,
+        "Temperature mod 3 ch 5": 30.198475,
+        "Temperature mod 3 ch 6": 32.26218,
+        "Temperature mod 3 ch 7": 33.160171,
+        "Temperature mod 3 ch 8": 25.520588,
+        "Temperature mod 4 ch 1": 22.788654,
+        "Temperature mod 4 ch 2": 23.009943,
+        "Temperature mod 4 ch 3": 23.581741,
+        "Temperature mod 4 ch 4": 24.548299,
+        "Temperature mod 4 ch 5": 24.249694,
+        "Temperature mod 4 ch 6": 28.960111,
+        "Temperature mod 4 ch 7": 30.421358,
+        "Temperature mod 4 ch 8": 30.452237,
+        "Temperature mod 5 ch 1": 30.856547,
+        "Temperature mod 5 ch 2": 31.437592,
+        "Temperature mod 5 ch 3": 32.743026,
+        "Temperature mod 5 ch 4": 26.387555,
+        "Temperature mod 6 ch 1": 24.948935,
+        "Temperature mod 6 ch 2": 27.657013,
+        "Temperature mod 6 ch 3": 25.825632,
+        "Temperature mod 6 ch 4": 27.691433,
+        "Temperature mod 7 ch 1": 27.526089,
+        "Temperature mod 7 ch 2": 25.297238,
+        "Temperature mod 7 ch 3": 23.431339,
+        "Temperature mod 7 ch 4": 27.830684,
+        "Temperature mod 8 ch 1": 17.073666,
+        "Temperature mod 8 ch 2": 17.243399,
+        "Temperature mod 8 ch 3": 20.103691,
+        "Temperature mod 8 ch 4": 21.180923
+      },
+      {
+        "Time [Date/Time]": "2024-09-18 11:25:04",
+        "Power Ch 1 (W)": 1285.4,
+        "Power Ch 2 (W)": 640.4,
+        "Power Ch 3 (W)": 908.9,
+        "Temperature mod 1 ch 1": 22.856995,
+        "Temperature mod 1 ch 2": 23.015858,
+        "Temperature mod 1 ch 3": 22.204779,
+        "Temperature mod 1 ch 4": 22.340807,
+        "Temperature mod 1 ch 5": 22.886177,
+        "Temperature mod 1 ch 6": 22.471853,
+        "Temperature mod 1 ch 7": 22.726261,
+        "Temperature mod 1 ch 8": 22.582276,
+        "Temperature mod 2 ch 1": 30.246864,
+        "Temperature mod 2 ch 2": 26.872329,
+        "Temperature mod 2 ch 3": 27.541751,
+        "Temperature mod 2 ch 4": 31.347155,
+        "Temperature mod 2 ch 5": 30.497692,
+        "Temperature mod 2 ch 6": 30.807634,
+        "Temperature mod 2 ch 7": 23.046096,
+        "Temperature mod 2 ch 8": 24.764053,
+        "Temperature mod 3 ch 1": 24.814981,
+        "Temperature mod 3 ch 2": 24.089018,
+        "Temperature mod 3 ch 3": 31.199111,
+        "Temperature mod 3 ch 4": 24.743238,
+        "Temperature mod 3 ch 5": 30.198475,
+        "Temperature mod 3 ch 6": 32.26218,
+        "Temperature mod 3 ch 7": 33.160171,
+        "Temperature mod 3 ch 8": 25.520588,
+        "Temperature mod 4 ch 1": 22.788654,
+        "Temperature mod 4 ch 2": 23.009943,
+        "Temperature mod 4 ch 3": 23.581741,
+        "Temperature mod 4 ch 4": 24.548299,
+        "Temperature mod 4 ch 5": 24.249694,
+        "Temperature mod 4 ch 6": 28.960111,
+        "Temperature mod 4 ch 7": 30.421358,
+        "Temperature mod 4 ch 8": 30.452237,
+        "Temperature mod 5 ch 1": 30.834569,
+        "Temperature mod 5 ch 2": 31.425106,
+        "Temperature mod 5 ch 3": 32.735032,
+        "Temperature mod 5 ch 4": 26.390475,
+        "Temperature mod 6 ch 1": 24.956341,
+        "Temperature mod 6 ch 2": 27.658402,
+        "Temperature mod 6 ch 3": 25.834547,
+        "Temperature mod 6 ch 4": 27.687274,
+        "Temperature mod 7 ch 1": 27.526089,
+        "Temperature mod 7 ch 2": 25.294012,
+        "Temperature mod 7 ch 3": 23.43226,
+        "Temperature mod 7 ch 4": 27.832377,
+        "Temperature mod 8 ch 1": 17.083686,
+        "Temperature mod 8 ch 2": 17.244785,
+        "Temperature mod 8 ch 3": 20.095085,
+        "Temperature mod 8 ch 4": 21.249722
+      }
+    ],
+    "rows_scanned": 77102,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_temperature_and_power_use_75_percent_load_period.csv",
+    "size_bytes": 45514576,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "Power Ch 1 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 2 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 3 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 4",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-19 09:20:00",
+        "Power Ch 1 (W)": 1446.8,
+        "Power Ch 2 (W)": 676.9,
+        "Power Ch 3 (W)": 1070.1,
+        "Temperature mod 1 ch 1": 24.700044,
+        "Temperature mod 1 ch 2": 23.787918,
+        "Temperature mod 1 ch 3": 22.908174,
+        "Temperature mod 1 ch 4": 24.572038,
+        "Temperature mod 1 ch 5": 25.415281,
+        "Temperature mod 1 ch 6": 24.904777,
+        "Temperature mod 1 ch 7": 24.461189,
+        "Temperature mod 1 ch 8": 25.088156,
+        "Temperature mod 2 ch 1": 31.919724,
+        "Temperature mod 2 ch 2": 30.097673,
+        "Temperature mod 2 ch 3": 27.802584,
+        "Temperature mod 2 ch 4": 32.252409,
+        "Temperature mod 2 ch 5": 31.431859,
+        "Temperature mod 2 ch 6": 31.337254,
+        "Temperature mod 2 ch 7": 24.767705,
+        "Temperature mod 2 ch 8": 23.886497,
+        "Temperature mod 3 ch 1": 25.85958,
+        "Temperature mod 3 ch 2": 26.207838,
+        "Temperature mod 3 ch 3": 34.068608,
+        "Temperature mod 3 ch 4": 24.599161,
+        "Temperature mod 3 ch 5": 28.232703,
+        "Temperature mod 3 ch 6": 34.141015,
+        "Temperature mod 3 ch 7": 35.376386,
+        "Temperature mod 3 ch 8": 25.835899,
+        "Temperature mod 4 ch 1": 23.865318,
+        "Temperature mod 4 ch 2": 24.895716,
+        "Temperature mod 4 ch 3": 25.318414,
+        "Temperature mod 4 ch 4": 26.143607,
+        "Temperature mod 4 ch 5": 25.686005,
+        "Temperature mod 4 ch 6": 27.900552,
+        "Temperature mod 4 ch 7": 32.532529,
+        "Temperature mod 4 ch 8": 31.854412,
+        "Temperature mod 5 ch 1": 33.595257,
+        "Temperature mod 5 ch 2": 34.057895,
+        "Temperature mod 5 ch 3": 35.03973,
+        "Temperature mod 5 ch 4": 26.510967,
+        "Temperature mod 6 ch 1": 26.105607,
+        "Temperature mod 6 ch 2": 27.62399,
+        "Temperature mod 6 ch 3": 25.649949,
+        "Temperature mod 6 ch 4": 27.90695,
+        "Temperature mod 7 ch 1": 30.485079,
+        "Temperature mod 7 ch 2": 26.419217,
+        "Temperature mod 7 ch 3": 25.176271,
+        "Temperature mod 7 ch 4": 29.274978,
+        "Temperature mod 8 ch 1": 26.436989,
+        "Temperature mod 8 ch 2": 25.910274,
+        "Temperature mod 8 ch 3": 23.117615,
+        "Temperature mod 8 ch 4": 25.413858
+      },
+      {
+        "Time [Date/Time]": "2024-09-19 09:20:01",
+        "Power Ch 1 (W)": 1465.2,
+        "Power Ch 2 (W)": 666.6,
+        "Power Ch 3 (W)": 1069.5,
+        "Temperature mod 1 ch 1": 24.700044,
+        "Temperature mod 1 ch 2": 23.787918,
+        "Temperature mod 1 ch 3": 22.908174,
+        "Temperature mod 1 ch 4": 24.572038,
+        "Temperature mod 1 ch 5": 25.415281,
+        "Temperature mod 1 ch 6": 24.904777,
+        "Temperature mod 1 ch 7": 24.461189,
+        "Temperature mod 1 ch 8": 25.088156,
+        "Temperature mod 2 ch 1": 31.919724,
+        "Temperature mod 2 ch 2": 30.097673,
+        "Temperature mod 2 ch 3": 27.802584,
+        "Temperature mod 2 ch 4": 32.252409,
+        "Temperature mod 2 ch 5": 31.431859,
+        "Temperature mod 2 ch 6": 31.337254,
+        "Temperature mod 2 ch 7": 24.767705,
+        "Temperature mod 2 ch 8": 23.886497,
+        "Temperature mod 3 ch 1": 25.85958,
+        "Temperature mod 3 ch 2": 26.207838,
+        "Temperature mod 3 ch 3": 34.068608,
+        "Temperature mod 3 ch 4": 24.599161,
+        "Temperature mod 3 ch 5": 28.232703,
+        "Temperature mod 3 ch 6": 34.141015,
+        "Temperature mod 3 ch 7": 35.376386,
+        "Temperature mod 3 ch 8": 25.835899,
+        "Temperature mod 4 ch 1": 23.865318,
+        "Temperature mod 4 ch 2": 24.895716,
+        "Temperature mod 4 ch 3": 25.318414,
+        "Temperature mod 4 ch 4": 26.143607,
+        "Temperature mod 4 ch 5": 25.686005,
+        "Temperature mod 4 ch 6": 27.900552,
+        "Temperature mod 4 ch 7": 32.532529,
+        "Temperature mod 4 ch 8": 31.854412,
+        "Temperature mod 5 ch 1": 33.586951,
+        "Temperature mod 5 ch 2": 34.059746,
+        "Temperature mod 5 ch 3": 35.040653,
+        "Temperature mod 5 ch 4": 26.509122,
+        "Temperature mod 6 ch 1": 26.103755,
+        "Temperature mod 6 ch 2": 27.623836,
+        "Temperature mod 6 ch 3": 25.651332,
+        "Temperature mod 6 ch 4": 27.911418,
+        "Temperature mod 7 ch 1": 30.46631,
+        "Temperature mod 7 ch 2": 26.417527,
+        "Temperature mod 7 ch 3": 25.1775,
+        "Temperature mod 7 ch 4": 29.284828,
+        "Temperature mod 8 ch 1": 26.463886,
+        "Temperature mod 8 ch 2": 25.901938,
+        "Temperature mod 8 ch 3": 23.134382,
+        "Temperature mod 8 ch 4": 25.468657
+      },
+      {
+        "Time [Date/Time]": "2024-09-19 09:20:02",
+        "Power Ch 1 (W)": 1417.9,
+        "Power Ch 2 (W)": 676.5,
+        "Power Ch 3 (W)": 1070.5,
+        "Temperature mod 1 ch 1": 24.713565,
+        "Temperature mod 1 ch 2": 23.794234,
+        "Temperature mod 1 ch 3": 22.914033,
+        "Temperature mod 1 ch 4": 24.590582,
+        "Temperature mod 1 ch 5": 25.423009,
+        "Temperature mod 1 ch 6": 24.916308,
+        "Temperature mod 1 ch 7": 24.464109,
+        "Temperature mod 1 ch 8": 25.10021,
+        "Temperature mod 2 ch 1": 31.924671,
+        "Temperature mod 2 ch 2": 30.105226,
+        "Temperature mod 2 ch 3": 27.810596,
+        "Temperature mod 2 ch 4": 32.266333,
+        "Temperature mod 2 ch 5": 31.432474,
+        "Temperature mod 2 ch 6": 31.346056,
+        "Temperature mod 2 ch 7": 24.778913,
+        "Temperature mod 2 ch 8": 23.875122,
+        "Temperature mod 3 ch 1": 25.858346,
+        "Temperature mod 3 ch 2": 26.217623,
+        "Temperature mod 3 ch 3": 34.072163,
+        "Temperature mod 3 ch 4": 24.618576,
+        "Temperature mod 3 ch 5": 28.224984,
+        "Temperature mod 3 ch 6": 34.149815,
+        "Temperature mod 3 ch 7": 35.365743,
+        "Temperature mod 3 ch 8": 25.84482,
+        "Temperature mod 4 ch 1": 23.851744,
+        "Temperature mod 4 ch 2": 24.909826,
+        "Temperature mod 4 ch 3": 25.31949,
+        "Temperature mod 4 ch 4": 26.136068,
+        "Temperature mod 4 ch 5": 25.6737,
+        "Temperature mod 4 ch 6": 27.904857,
+        "Temperature mod 4 ch 7": 32.537142,
+        "Temperature mod 4 ch 8": 31.853488,
+        "Temperature mod 5 ch 1": 33.575261,
+        "Temperature mod 5 ch 2": 34.056661,
+        "Temperature mod 5 ch 3": 35.039884,
+        "Temperature mod 5 ch 4": 26.510659,
+        "Temperature mod 6 ch 1": 26.106842,
+        "Temperature mod 6 ch 2": 27.62399,
+        "Temperature mod 6 ch 3": 25.65579,
+        "Temperature mod 6 ch 4": 27.917888,
+        "Temperature mod 7 ch 1": 30.52631,
+        "Temperature mod 7 ch 2": 26.418142,
+        "Temperature mod 7 ch 3": 25.17535,
+        "Temperature mod 7 ch 4": 29.294371,
+        "Temperature mod 8 ch 1": 26.474397,
+        "Temperature mod 8 ch 2": 25.856709,
+        "Temperature mod 8 ch 3": 23.160378,
+        "Temperature mod 8 ch 4": 25.437077
+      },
+      {
+        "Time [Date/Time]": "2024-09-19 09:20:03",
+        "Power Ch 1 (W)": 1360.9,
+        "Power Ch 2 (W)": 678.4,
+        "Power Ch 3 (W)": 1070.5,
+        "Temperature mod 1 ch 1": 24.713565,
+        "Temperature mod 1 ch 2": 23.794234,
+        "Temperature mod 1 ch 3": 22.914033,
+        "Temperature mod 1 ch 4": 24.590582,
+        "Temperature mod 1 ch 5": 25.423009,
+        "Temperature mod 1 ch 6": 24.916308,
+        "Temperature mod 1 ch 7": 24.464109,
+        "Temperature mod 1 ch 8": 25.10021,
+        "Temperature mod 2 ch 1": 31.924671,
+        "Temperature mod 2 ch 2": 30.105226,
+        "Temperature mod 2 ch 3": 27.810596,
+        "Temperature mod 2 ch 4": 32.266333,
+        "Temperature mod 2 ch 5": 31.432474,
+        "Temperature mod 2 ch 6": 31.346056,
+        "Temperature mod 2 ch 7": 24.778913,
+        "Temperature mod 2 ch 8": 23.875122,
+        "Temperature mod 3 ch 1": 25.858346,
+        "Temperature mod 3 ch 2": 26.217623,
+        "Temperature mod 3 ch 3": 34.072163,
+        "Temperature mod 3 ch 4": 24.618576,
+        "Temperature mod 3 ch 5": 28.224984,
+        "Temperature mod 3 ch 6": 34.149815,
+        "Temperature mod 3 ch 7": 35.365743,
+        "Temperature mod 3 ch 8": 25.84482,
+        "Temperature mod 4 ch 1": 23.851744,
+        "Temperature mod 4 ch 2": 24.909826,
+        "Temperature mod 4 ch 3": 25.31949,
+        "Temperature mod 4 ch 4": 26.136068,
+        "Temperature mod 4 ch 5": 25.6737,
+        "Temperature mod 4 ch 6": 27.904857,
+        "Temperature mod 4 ch 7": 32.537142,
+        "Temperature mod 4 ch 8": 31.853488,
+        "Temperature mod 5 ch 1": 33.574953,
+        "Temperature mod 5 ch 2": 34.056969,
+        "Temperature mod 5 ch 3": 35.042037,
+        "Temperature mod 5 ch 4": 26.514194,
+        "Temperature mod 6 ch 1": 26.115486,
+        "Temperature mod 6 ch 2": 27.621521,
+        "Temperature mod 6 ch 3": 25.659786,
+        "Temperature mod 6 ch 4": 27.921585,
+        "Temperature mod 7 ch 1": 30.491541,
+        "Temperature mod 7 ch 2": 26.419217,
+        "Temperature mod 7 ch 3": 25.17796,
+        "Temperature mod 7 ch 4": 29.301758,
+        "Temperature mod 8 ch 1": 26.466823,
+        "Temperature mod 8 ch 2": 25.739704,
+        "Temperature mod 8 ch 3": 23.161609,
+        "Temperature mod 8 ch 4": 25.367419
+      },
+      {
+        "Time [Date/Time]": "2024-09-19 09:20:04",
+        "Power Ch 1 (W)": 1403.8,
+        "Power Ch 2 (W)": 679.1,
+        "Power Ch 3 (W)": 1070.5,
+        "Temperature mod 1 ch 1": 24.726319,
+        "Temperature mod 1 ch 2": 23.798702,
+        "Temperature mod 1 ch 3": 22.914496,
+        "Temperature mod 1 ch 4": 24.605854,
+        "Temperature mod 1 ch 5": 25.425946,
+        "Temperature mod 1 ch 6": 24.921688,
+        "Temperature mod 1 ch 7": 24.472716,
+        "Temperature mod 1 ch 8": 25.115363,
+        "Temperature mod 2 ch 1": 31.929927,
+        "Temperature mod 2 ch 2": 30.109696,
+        "Temperature mod 2 ch 3": 27.818762,
+        "Temperature mod 2 ch 4": 32.269582,
+        "Temperature mod 2 ch 5": 31.431243,
+        "Temperature mod 2 ch 6": 31.344203,
+        "Temperature mod 2 ch 7": 24.792117,
+        "Temperature mod 2 ch 8": 23.857752,
+        "Temperature mod 3 ch 1": 25.873626,
+        "Temperature mod 3 ch 2": 26.242006,
+        "Temperature mod 3 ch 3": 34.075717,
+        "Temperature mod 3 ch 4": 24.634293,
+        "Temperature mod 3 ch 5": 28.21495,
+        "Temperature mod 3 ch 6": 34.153057,
+        "Temperature mod 3 ch 7": 35.365126,
+        "Temperature mod 3 ch 8": 25.862663,
+        "Temperature mod 4 ch 1": 23.829531,
+        "Temperature mod 4 ch 2": 24.921329,
+        "Temperature mod 4 ch 3": 25.315033,
+        "Temperature mod 4 ch 4": 26.161148,
+        "Temperature mod 4 ch 5": 25.670316,
+        "Temperature mod 4 ch 6": 27.907471,
+        "Temperature mod 4 ch 7": 32.548368,
+        "Temperature mod 4 ch 8": 31.863808,
+        "Temperature mod 5 ch 1": 33.574492,
+        "Temperature mod 5 ch 2": 34.054655,
+        "Temperature mod 5 ch 3": 35.046653,
+        "Temperature mod 5 ch 4": 26.514348,
+        "Temperature mod 6 ch 1": 26.113788,
+        "Temperature mod 6 ch 2": 27.631397,
+        "Temperature mod 6 ch 3": 25.665319,
+        "Temperature mod 6 ch 4": 27.921739,
+        "Temperature mod 7 ch 1": 30.479233,
+        "Temperature mod 7 ch 2": 26.425672,
+        "Temperature mod 7 ch 3": 25.176118,
+        "Temperature mod 7 ch 4": 29.307607,
+        "Temperature mod 8 ch 1": 26.188748,
+        "Temperature mod 8 ch 2": 25.268172,
+        "Temperature mod 8 ch 3": 23.164839,
+        "Temperature mod 8 ch 4": 25.35844
+      }
+    ],
+    "rows_scanned": 88261,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_temperature_and_power_use_idle_period_1.csv",
+    "size_bytes": 29955413,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "Power Ch 1 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 2 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 3 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 4",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-16 16:59:59",
+        "Power Ch 1 (W)": 1164.4,
+        "Power Ch 2 (W)": 640.2,
+        "Power Ch 3 (W)": 431.4,
+        "Temperature mod 1 ch 1": 24.248021,
+        "Temperature mod 1 ch 2": 23.856013,
+        "Temperature mod 1 ch 3": 22.750429,
+        "Temperature mod 1 ch 4": 23.183715,
+        "Temperature mod 1 ch 5": 23.868608,
+        "Temperature mod 1 ch 6": 23.776079,
+        "Temperature mod 1 ch 7": 23.225397,
+        "Temperature mod 1 ch 8": 23.897066,
+        "Temperature mod 2 ch 1": 26.865663,
+        "Temperature mod 2 ch 2": 26.012862,
+        "Temperature mod 2 ch 3": 27.972992,
+        "Temperature mod 2 ch 4": 27.308496,
+        "Temperature mod 2 ch 5": 26.807572,
+        "Temperature mod 2 ch 6": 27.001451,
+        "Temperature mod 2 ch 7": 24.241428,
+        "Temperature mod 2 ch 8": 24.73407,
+        "Temperature mod 3 ch 1": 23.362894,
+        "Temperature mod 3 ch 2": 24.272482,
+        "Temperature mod 3 ch 3": 28.68616,
+        "Temperature mod 3 ch 4": 24.970693,
+        "Temperature mod 3 ch 5": 25.608879,
+        "Temperature mod 3 ch 6": 29.071203,
+        "Temperature mod 3 ch 7": 29.059129,
+        "Temperature mod 3 ch 8": 25.829284,
+        "Temperature mod 4 ch 1": 22.894747,
+        "Temperature mod 4 ch 2": 23.171356,
+        "Temperature mod 4 ch 3": 23.229384,
+        "Temperature mod 4 ch 4": 24.359607,
+        "Temperature mod 4 ch 5": 23.914695,
+        "Temperature mod 4 ch 6": 26.138284,
+        "Temperature mod 4 ch 7": 26.877804,
+        "Temperature mod 4 ch 8": 26.657369,
+        "Temperature mod 5 ch 1": 27.499714,
+        "Temperature mod 5 ch 2": 28.202622,
+        "Temperature mod 5 ch 3": 28.748844,
+        "Temperature mod 5 ch 4": 26.961467,
+        "Temperature mod 6 ch 1": 26.395802,
+        "Temperature mod 6 ch 2": 28.574527,
+        "Temperature mod 6 ch 3": 27.060129,
+        "Temperature mod 6 ch 4": 27.961178,
+        "Temperature mod 7 ch 1": 25.88456,
+        "Temperature mod 7 ch 2": 26.419986,
+        "Temperature mod 7 ch 3": 24.256182,
+        "Temperature mod 7 ch 4": 29.961489,
+        "Temperature mod 8 ch 1": 17.371341,
+        "Temperature mod 8 ch 2": 17.784033,
+        "Temperature mod 8 ch 3": 15.756074,
+        "Temperature mod 8 ch 4": 16.333673
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 17:00:00",
+        "Power Ch 1 (W)": 1166.8,
+        "Power Ch 2 (W)": 640.0,
+        "Power Ch 3 (W)": 431.4,
+        "Temperature mod 1 ch 1": 24.238342,
+        "Temperature mod 1 ch 2": 23.838296,
+        "Temperature mod 1 ch 3": 22.726992,
+        "Temperature mod 1 ch 4": 23.152717,
+        "Temperature mod 1 ch 5": 23.844044,
+        "Temperature mod 1 ch 6": 23.75195,
+        "Temperature mod 1 ch 7": 23.203734,
+        "Temperature mod 1 ch 8": 23.89018,
+        "Temperature mod 2 ch 1": 26.863347,
+        "Temperature mod 2 ch 2": 25.996851,
+        "Temperature mod 2 ch 3": 27.966674,
+        "Temperature mod 2 ch 4": 27.308032,
+        "Temperature mod 2 ch 5": 26.799121,
+        "Temperature mod 2 ch 6": 26.993123,
+        "Temperature mod 2 ch 7": 24.228379,
+        "Temperature mod 2 ch 8": 24.736223,
+        "Temperature mod 3 ch 1": 23.28871,
+        "Temperature mod 3 ch 2": 24.268912,
+        "Temperature mod 3 ch 3": 28.693721,
+        "Temperature mod 3 ch 4": 24.96684,
+        "Temperature mod 3 ch 5": 25.587746,
+        "Temperature mod 3 ch 6": 29.051163,
+        "Temperature mod 3 ch 7": 29.048352,
+        "Temperature mod 3 ch 8": 25.826208,
+        "Temperature mod 4 ch 1": 22.905542,
+        "Temperature mod 4 ch 2": 23.162158,
+        "Temperature mod 4 ch 3": 23.199741,
+        "Temperature mod 4 ch 4": 24.352225,
+        "Temperature mod 4 ch 5": 23.901781,
+        "Temperature mod 4 ch 6": 26.122304,
+        "Temperature mod 4 ch 7": 26.873813,
+        "Temperature mod 4 ch 8": 26.657061,
+        "Temperature mod 5 ch 1": 27.498639,
+        "Temperature mod 5 ch 2": 28.193843,
+        "Temperature mod 5 ch 3": 28.749459,
+        "Temperature mod 5 ch 4": 26.96577,
+        "Temperature mod 6 ch 1": 26.394413,
+        "Temperature mod 6 ch 2": 28.566964,
+        "Temperature mod 6 ch 3": 27.062589,
+        "Temperature mod 6 ch 4": 27.954399,
+        "Temperature mod 7 ch 1": 25.863205,
+        "Temperature mod 7 ch 2": 26.413992,
+        "Temperature mod 7 ch 3": 24.252497,
+        "Temperature mod 7 ch 4": 29.960103,
+        "Temperature mod 8 ch 1": 17.344671,
+        "Temperature mod 8 ch 2": 17.765246,
+        "Temperature mod 8 ch 3": 15.735506,
+        "Temperature mod 8 ch 4": 16.317463
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 17:00:01",
+        "Power Ch 1 (W)": 1185.5,
+        "Power Ch 2 (W)": 649.2,
+        "Power Ch 3 (W)": 433.1,
+        "Temperature mod 1 ch 1": 24.238342,
+        "Temperature mod 1 ch 2": 23.838296,
+        "Temperature mod 1 ch 3": 22.726992,
+        "Temperature mod 1 ch 4": 23.152717,
+        "Temperature mod 1 ch 5": 23.844044,
+        "Temperature mod 1 ch 6": 23.75195,
+        "Temperature mod 1 ch 7": 23.203734,
+        "Temperature mod 1 ch 8": 23.89018,
+        "Temperature mod 2 ch 1": 26.863347,
+        "Temperature mod 2 ch 2": 25.996851,
+        "Temperature mod 2 ch 3": 27.966674,
+        "Temperature mod 2 ch 4": 27.308032,
+        "Temperature mod 2 ch 5": 26.799121,
+        "Temperature mod 2 ch 6": 26.993123,
+        "Temperature mod 2 ch 7": 24.228379,
+        "Temperature mod 2 ch 8": 24.736223,
+        "Temperature mod 3 ch 1": 23.28871,
+        "Temperature mod 3 ch 2": 24.268912,
+        "Temperature mod 3 ch 3": 28.693721,
+        "Temperature mod 3 ch 4": 24.96684,
+        "Temperature mod 3 ch 5": 25.587746,
+        "Temperature mod 3 ch 6": 29.051163,
+        "Temperature mod 3 ch 7": 29.048352,
+        "Temperature mod 3 ch 8": 25.826208,
+        "Temperature mod 4 ch 1": 22.905542,
+        "Temperature mod 4 ch 2": 23.162158,
+        "Temperature mod 4 ch 3": 23.199741,
+        "Temperature mod 4 ch 4": 24.352225,
+        "Temperature mod 4 ch 5": 23.901781,
+        "Temperature mod 4 ch 6": 26.122304,
+        "Temperature mod 4 ch 7": 26.873813,
+        "Temperature mod 4 ch 8": 26.657061,
+        "Temperature mod 5 ch 1": 27.49434,
+        "Temperature mod 5 ch 2": 28.181368,
+        "Temperature mod 5 ch 3": 28.742856,
+        "Temperature mod 5 ch 4": 26.967,
+        "Temperature mod 6 ch 1": 26.402286,
+        "Temperature mod 6 ch 2": 28.551528,
+        "Temperature mod 6 ch 3": 27.067817,
+        "Temperature mod 6 ch 4": 27.957172,
+        "Temperature mod 7 ch 1": 25.830942,
+        "Temperature mod 7 ch 2": 26.413224,
+        "Temperature mod 7 ch 3": 24.248506,
+        "Temperature mod 7 ch 4": 29.962412,
+        "Temperature mod 8 ch 1": 17.332184,
+        "Temperature mod 8 ch 2": 17.745381,
+        "Temperature mod 8 ch 3": 15.715399,
+        "Temperature mod 8 ch 4": 16.297702
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 17:00:02",
+        "Power Ch 1 (W)": 1315.4,
+        "Power Ch 2 (W)": 642.0,
+        "Power Ch 3 (W)": 432.1,
+        "Temperature mod 1 ch 1": 24.226358,
+        "Temperature mod 1 ch 2": 23.823043,
+        "Temperature mod 1 ch 3": 22.707409,
+        "Temperature mod 1 ch 4": 23.112374,
+        "Temperature mod 1 ch 5": 23.8133,
+        "Temperature mod 1 ch 6": 23.728898,
+        "Temperature mod 1 ch 7": 23.188985,
+        "Temperature mod 1 ch 8": 23.880023,
+        "Temperature mod 2 ch 1": 26.855784,
+        "Temperature mod 2 ch 2": 25.983303,
+        "Temperature mod 2 ch 3": 27.959125,
+        "Temperature mod 2 ch 4": 27.31035,
+        "Temperature mod 2 ch 5": 26.799121,
+        "Temperature mod 2 ch 6": 26.997595,
+        "Temperature mod 2 ch 7": 24.208576,
+        "Temperature mod 2 ch 8": 24.728535,
+        "Temperature mod 3 ch 1": 23.325725,
+        "Temperature mod 3 ch 2": 24.21024,
+        "Temperature mod 3 ch 3": 28.67397,
+        "Temperature mod 3 ch 4": 24.976086,
+        "Temperature mod 3 ch 5": 25.577719,
+        "Temperature mod 3 ch 6": 29.027423,
+        "Temperature mod 3 ch 7": 29.016789,
+        "Temperature mod 3 ch 8": 25.802982,
+        "Temperature mod 4 ch 1": 22.90693,
+        "Temperature mod 4 ch 2": 23.146829,
+        "Temperature mod 4 ch 3": 23.163954,
+        "Temperature mod 4 ch 4": 24.360376,
+        "Temperature mod 4 ch 5": 23.85351,
+        "Temperature mod 4 ch 6": 26.114929,
+        "Temperature mod 4 ch 7": 26.868747,
+        "Temperature mod 4 ch 8": 26.651063,
+        "Temperature mod 5 ch 1": 27.492958,
+        "Temperature mod 5 ch 2": 28.17105,
+        "Temperature mod 5 ch 3": 28.739938,
+        "Temperature mod 5 ch 4": 26.967154,
+        "Temperature mod 6 ch 1": 26.391943,
+        "Temperature mod 6 ch 2": 28.549059,
+        "Temperature mod 6 ch 3": 27.062589,
+        "Temperature mod 6 ch 4": 27.961024,
+        "Temperature mod 7 ch 1": 25.816654,
+        "Temperature mod 7 ch 2": 26.409382,
+        "Temperature mod 7 ch 3": 24.246664,
+        "Temperature mod 7 ch 4": 29.961797,
+        "Temperature mod 8 ch 1": 17.316151,
+        "Temperature mod 8 ch 2": 17.731521,
+        "Temperature mod 8 ch 3": 15.698823,
+        "Temperature mod 8 ch 4": 16.279793
+      },
+      {
+        "Time [Date/Time]": "2024-09-16 17:00:03",
+        "Power Ch 1 (W)": 1421.0,
+        "Power Ch 2 (W)": 641.5,
+        "Power Ch 3 (W)": 431.2,
+        "Temperature mod 1 ch 1": 24.226358,
+        "Temperature mod 1 ch 2": 23.823043,
+        "Temperature mod 1 ch 3": 22.707409,
+        "Temperature mod 1 ch 4": 23.112374,
+        "Temperature mod 1 ch 5": 23.8133,
+        "Temperature mod 1 ch 6": 23.728898,
+        "Temperature mod 1 ch 7": 23.188985,
+        "Temperature mod 1 ch 8": 23.880023,
+        "Temperature mod 2 ch 1": 26.855784,
+        "Temperature mod 2 ch 2": 25.983303,
+        "Temperature mod 2 ch 3": 27.959125,
+        "Temperature mod 2 ch 4": 27.31035,
+        "Temperature mod 2 ch 5": 26.799121,
+        "Temperature mod 2 ch 6": 26.997595,
+        "Temperature mod 2 ch 7": 24.208576,
+        "Temperature mod 2 ch 8": 24.728535,
+        "Temperature mod 3 ch 1": 23.325725,
+        "Temperature mod 3 ch 2": 24.21024,
+        "Temperature mod 3 ch 3": 28.67397,
+        "Temperature mod 3 ch 4": 24.976086,
+        "Temperature mod 3 ch 5": 25.577719,
+        "Temperature mod 3 ch 6": 29.027423,
+        "Temperature mod 3 ch 7": 29.016789,
+        "Temperature mod 3 ch 8": 25.802982,
+        "Temperature mod 4 ch 1": 22.90693,
+        "Temperature mod 4 ch 2": 23.146829,
+        "Temperature mod 4 ch 3": 23.163954,
+        "Temperature mod 4 ch 4": 24.360376,
+        "Temperature mod 4 ch 5": 23.85351,
+        "Temperature mod 4 ch 6": 26.114929,
+        "Temperature mod 4 ch 7": 26.868747,
+        "Temperature mod 4 ch 8": 26.651063,
+        "Temperature mod 5 ch 1": 27.491269,
+        "Temperature mod 5 ch 2": 28.160269,
+        "Temperature mod 5 ch 3": 28.731493,
+        "Temperature mod 5 ch 4": 26.967615,
+        "Temperature mod 6 ch 1": 26.389319,
+        "Temperature mod 6 ch 2": 28.5452,
+        "Temperature mod 6 ch 3": 27.064896,
+        "Temperature mod 6 ch 4": 27.956094,
+        "Temperature mod 7 ch 1": 25.806975,
+        "Temperature mod 7 ch 2": 26.408921,
+        "Temperature mod 7 ch 3": 24.240217,
+        "Temperature mod 7 ch 4": 29.958256,
+        "Temperature mod 8 ch 1": 17.303047,
+        "Temperature mod 8 ch 2": 17.712734,
+        "Temperature mod 8 ch 3": 15.679944,
+        "Temperature mod 8 ch 4": 16.267597
+      }
+    ],
+    "rows_scanned": 58202,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  },
+  {
+    "file": "AAU_temperature_and_power_use_idle_period_2.csv",
+    "size_bytes": 406398635,
+    "columns": [
+      {
+        "name": "Time [Date/Time]",
+        "dtype": "str"
+      },
+      {
+        "name": "Power Ch 1 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 2 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Power Ch 3 (W)",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 1 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 2 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 3 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 5",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 6",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 7",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 4 ch 8",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 5 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 6 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 7 ch 4",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 1",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 2",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 3",
+        "dtype": "float64"
+      },
+      {
+        "name": "Temperature mod 8 ch 4",
+        "dtype": "float64"
+      }
+    ],
+    "sample_rows": [
+      {
+        "Time [Date/Time]": "2024-09-23 10:33:00",
+        "Power Ch 1 (W)": 1255.9,
+        "Power Ch 2 (W)": 641.3,
+        "Power Ch 3 (W)": 396.1,
+        "Temperature mod 1 ch 1": 23.240944,
+        "Temperature mod 1 ch 2": 23.777441,
+        "Temperature mod 1 ch 3": 22.802547,
+        "Temperature mod 1 ch 4": 23.350545,
+        "Temperature mod 1 ch 5": 23.925308,
+        "Temperature mod 1 ch 6": 23.291852,
+        "Temperature mod 1 ch 7": 23.650082,
+        "Temperature mod 1 ch 8": 23.059327,
+        "Temperature mod 2 ch 1": 28.298097,
+        "Temperature mod 2 ch 2": 26.978584,
+        "Temperature mod 2 ch 3": 27.946028,
+        "Temperature mod 2 ch 4": 28.515861,
+        "Temperature mod 2 ch 5": 27.851992,
+        "Temperature mod 2 ch 6": 27.566412,
+        "Temperature mod 2 ch 7": 23.313582,
+        "Temperature mod 2 ch 8": 24.656422,
+        "Temperature mod 3 ch 1": 25.22235,
+        "Temperature mod 3 ch 2": 24.269533,
+        "Temperature mod 3 ch 3": 29.784959,
+        "Temperature mod 3 ch 4": 24.968843,
+        "Temperature mod 3 ch 5": 26.834506,
+        "Temperature mod 3 ch 6": 29.556209,
+        "Temperature mod 3 ch 7": 31.971401,
+        "Temperature mod 3 ch 8": 25.986951,
+        "Temperature mod 4 ch 1": 23.487729,
+        "Temperature mod 4 ch 2": 23.736436,
+        "Temperature mod 4 ch 3": 24.182246,
+        "Temperature mod 4 ch 4": 24.804211,
+        "Temperature mod 4 ch 5": 24.462949,
+        "Temperature mod 4 ch 6": 26.902497,
+        "Temperature mod 4 ch 7": 27.649326,
+        "Temperature mod 4 ch 8": 27.716718,
+        "Temperature mod 5 ch 1": 28.378538,
+        "Temperature mod 5 ch 2": 28.742004,
+        "Temperature mod 5 ch 3": 29.264059,
+        "Temperature mod 5 ch 4": 26.621012,
+        "Temperature mod 6 ch 1": 25.239493,
+        "Temperature mod 6 ch 2": 27.024699,
+        "Temperature mod 6 ch 3": 25.341335,
+        "Temperature mod 6 ch 4": 28.139582,
+        "Temperature mod 7 ch 1": 28.999415,
+        "Temperature mod 7 ch 2": 26.139072,
+        "Temperature mod 7 ch 3": 23.887479,
+        "Temperature mod 7 ch 4": 28.162389,
+        "Temperature mod 8 ch 1": 17.54447,
+        "Temperature mod 8 ch 2": 17.91601,
+        "Temperature mod 8 ch 3": 21.545432,
+        "Temperature mod 8 ch 4": 21.931456
+      },
+      {
+        "Time [Date/Time]": "2024-09-23 10:33:01",
+        "Power Ch 1 (W)": 1272.6,
+        "Power Ch 2 (W)": 640.5,
+        "Power Ch 3 (W)": 396.7,
+        "Temperature mod 1 ch 1": 23.234186,
+        "Temperature mod 1 ch 2": 23.777596,
+        "Temperature mod 1 ch 3": 22.799001,
+        "Temperature mod 1 ch 4": 23.34447,
+        "Temperature mod 1 ch 5": 23.895336,
+        "Temperature mod 1 ch 6": 23.266498,
+        "Temperature mod 1 ch 7": 23.650082,
+        "Temperature mod 1 ch 8": 23.047107,
+        "Temperature mod 2 ch 1": 28.295009,
+        "Temperature mod 2 ch 2": 26.974734,
+        "Temperature mod 2 ch 3": 27.938478,
+        "Temperature mod 2 ch 4": 28.512152,
+        "Temperature mod 2 ch 5": 27.846766,
+        "Temperature mod 2 ch 6": 27.566104,
+        "Temperature mod 2 ch 7": 23.303299,
+        "Temperature mod 2 ch 8": 24.654731,
+        "Temperature mod 3 ch 1": 25.245343,
+        "Temperature mod 3 ch 2": 24.275897,
+        "Temperature mod 3 ch 3": 29.77647,
+        "Temperature mod 3 ch 4": 24.979631,
+        "Temperature mod 3 ch 5": 26.836975,
+        "Temperature mod 3 ch 6": 29.55328,
+        "Temperature mod 3 ch 7": 31.984345,
+        "Temperature mod 3 ch 8": 26.009871,
+        "Temperature mod 4 ch 1": 23.483411,
+        "Temperature mod 4 ch 2": 23.732603,
+        "Temperature mod 4 ch 3": 24.137538,
+        "Temperature mod 4 ch 4": 24.791446,
+        "Temperature mod 4 ch 5": 24.44127,
+        "Temperature mod 4 ch 6": 26.90388,
+        "Temperature mod 4 ch 7": 27.647637,
+        "Temperature mod 4 ch 8": 27.718564,
+        "Temperature mod 5 ch 1": 28.37992,
+        "Temperature mod 5 ch 2": 28.740926,
+        "Temperature mod 5 ch 3": 29.26452,
+        "Temperature mod 5 ch 4": 26.618091,
+        "Temperature mod 6 ch 1": 25.241499,
+        "Temperature mod 6 ch 2": 27.03195,
+        "Temperature mod 6 ch 3": 25.339798,
+        "Temperature mod 6 ch 4": 28.140198,
+        "Temperature mod 7 ch 1": 28.982192,
+        "Temperature mod 7 ch 2": 26.137074,
+        "Temperature mod 7 ch 3": 23.888093,
+        "Temperature mod 7 ch 4": 28.164082,
+        "Temperature mod 8 ch 1": 17.543699,
+        "Temperature mod 8 ch 2": 17.918166,
+        "Temperature mod 8 ch 3": 21.534054,
+        "Temperature mod 8 ch 4": 21.977539
+      },
+      {
+        "Time [Date/Time]": "2024-09-23 10:33:02",
+        "Power Ch 1 (W)": 1240.1,
+        "Power Ch 2 (W)": 641.2,
+        "Power Ch 3 (W)": 395.8,
+        "Temperature mod 1 ch 1": 23.234186,
+        "Temperature mod 1 ch 2": 23.777596,
+        "Temperature mod 1 ch 3": 22.799001,
+        "Temperature mod 1 ch 4": 23.34447,
+        "Temperature mod 1 ch 5": 23.895336,
+        "Temperature mod 1 ch 6": 23.266498,
+        "Temperature mod 1 ch 7": 23.650082,
+        "Temperature mod 1 ch 8": 23.047107,
+        "Temperature mod 2 ch 1": 28.295009,
+        "Temperature mod 2 ch 2": 26.974734,
+        "Temperature mod 2 ch 3": 27.938478,
+        "Temperature mod 2 ch 4": 28.512152,
+        "Temperature mod 2 ch 5": 27.846766,
+        "Temperature mod 2 ch 6": 27.566104,
+        "Temperature mod 2 ch 7": 23.303299,
+        "Temperature mod 2 ch 8": 24.654731,
+        "Temperature mod 3 ch 1": 25.245343,
+        "Temperature mod 3 ch 2": 24.275897,
+        "Temperature mod 3 ch 3": 29.77647,
+        "Temperature mod 3 ch 4": 24.979631,
+        "Temperature mod 3 ch 5": 26.836975,
+        "Temperature mod 3 ch 6": 29.55328,
+        "Temperature mod 3 ch 7": 31.984345,
+        "Temperature mod 3 ch 8": 26.009871,
+        "Temperature mod 4 ch 1": 23.483411,
+        "Temperature mod 4 ch 2": 23.732603,
+        "Temperature mod 4 ch 3": 24.137538,
+        "Temperature mod 4 ch 4": 24.791446,
+        "Temperature mod 4 ch 5": 24.44127,
+        "Temperature mod 4 ch 6": 26.90388,
+        "Temperature mod 4 ch 7": 27.647637,
+        "Temperature mod 4 ch 8": 27.718564,
+        "Temperature mod 5 ch 1": 28.378538,
+        "Temperature mod 5 ch 2": 28.738615,
+        "Temperature mod 5 ch 3": 29.263138,
+        "Temperature mod 5 ch 4": 26.623471,
+        "Temperature mod 6 ch 1": 25.245357,
+        "Temperature mod 6 ch 2": 27.034728,
+        "Temperature mod 6 ch 3": 25.336724,
+        "Temperature mod 6 ch 4": 28.138503,
+        "Temperature mod 7 ch 1": 28.968813,
+        "Temperature mod 7 ch 2": 26.140455,
+        "Temperature mod 7 ch 3": 23.888861,
+        "Temperature mod 7 ch 4": 28.157004,
+        "Temperature mod 8 ch 1": 17.537224,
+        "Temperature mod 8 ch 2": 17.913392,
+        "Temperature mod 8 ch 3": 21.521907,
+        "Temperature mod 8 ch 4": 22.000117
+      },
+      {
+        "Time [Date/Time]": "2024-09-23 10:33:03",
+        "Power Ch 1 (W)": 1243.1,
+        "Power Ch 2 (W)": 640.6,
+        "Power Ch 3 (W)": 396.6,
+        "Temperature mod 1 ch 1": 23.223589,
+        "Temperature mod 1 ch 2": 23.776517,
+        "Temperature mod 1 ch 3": 22.803318,
+        "Temperature mod 1 ch 4": 23.330451,
+        "Temperature mod 1 ch 5": 23.876487,
+        "Temperature mod 1 ch 6": 23.248673,
+        "Temperature mod 1 ch 7": 23.64286,
+        "Temperature mod 1 ch 8": 23.048484,
+        "Temperature mod 2 ch 1": 28.294082,
+        "Temperature mod 2 ch 2": 26.931924,
+        "Temperature mod 2 ch 3": 27.938324,
+        "Temperature mod 2 ch 4": 28.510143,
+        "Temperature mod 2 ch 5": 27.850762,
+        "Temperature mod 2 ch 6": 27.569651,
+        "Temperature mod 2 ch 7": 23.291482,
+        "Temperature mod 2 ch 8": 24.643199,
+        "Temperature mod 3 ch 1": 25.241794,
+        "Temperature mod 3 ch 2": 24.280243,
+        "Temperature mod 3 ch 3": 29.770451,
+        "Temperature mod 3 ch 4": 24.994425,
+        "Temperature mod 3 ch 5": 26.837438,
+        "Temperature mod 3 ch 6": 29.542179,
+        "Temperature mod 3 ch 7": 31.986348,
+        "Temperature mod 3 ch 8": 26.014947,
+        "Temperature mod 4 ch 1": 23.485416,
+        "Temperature mod 4 ch 2": 23.733676,
+        "Temperature mod 4 ch 3": 24.155206,
+        "Temperature mod 4 ch 4": 24.797136,
+        "Temperature mod 4 ch 5": 24.435427,
+        "Temperature mod 4 ch 6": 26.903726,
+        "Temperature mod 4 ch 7": 27.650094,
+        "Temperature mod 4 ch 8": 27.723333,
+        "Temperature mod 5 ch 1": 28.380688,
+        "Temperature mod 5 ch 2": 28.738307,
+        "Temperature mod 5 ch 3": 29.261141,
+        "Temperature mod 5 ch 4": 26.622856,
+        "Temperature mod 6 ch 1": 25.253381,
+        "Temperature mod 6 ch 2": 27.041208,
+        "Temperature mod 6 ch 3": 25.340566,
+        "Temperature mod 6 ch 4": 28.129722,
+        "Temperature mod 7 ch 1": 28.967891,
+        "Temperature mod 7 ch 2": 26.142145,
+        "Temperature mod 7 ch 3": 23.889014,
+        "Temperature mod 7 ch 4": 28.153465,
+        "Temperature mod 8 ch 1": 17.537995,
+        "Temperature mod 8 ch 2": 17.913238,
+        "Temperature mod 8 ch 3": 21.523599,
+        "Temperature mod 8 ch 4": 22.130792
+      },
+      {
+        "Time [Date/Time]": "2024-09-23 10:33:04",
+        "Power Ch 1 (W)": 1293.0,
+        "Power Ch 2 (W)": 642.7,
+        "Power Ch 3 (W)": 396.2,
+        "Temperature mod 1 ch 1": 23.223589,
+        "Temperature mod 1 ch 2": 23.776517,
+        "Temperature mod 1 ch 3": 22.803318,
+        "Temperature mod 1 ch 4": 23.330451,
+        "Temperature mod 1 ch 5": 23.876487,
+        "Temperature mod 1 ch 6": 23.248673,
+        "Temperature mod 1 ch 7": 23.64286,
+        "Temperature mod 1 ch 8": 23.048484,
+        "Temperature mod 2 ch 1": 28.294082,
+        "Temperature mod 2 ch 2": 26.931924,
+        "Temperature mod 2 ch 3": 27.938324,
+        "Temperature mod 2 ch 4": 28.510143,
+        "Temperature mod 2 ch 5": 27.850762,
+        "Temperature mod 2 ch 6": 27.569651,
+        "Temperature mod 2 ch 7": 23.291482,
+        "Temperature mod 2 ch 8": 24.643199,
+        "Temperature mod 3 ch 1": 25.241794,
+        "Temperature mod 3 ch 2": 24.280243,
+        "Temperature mod 3 ch 3": 29.770451,
+        "Temperature mod 3 ch 4": 24.994425,
+        "Temperature mod 3 ch 5": 26.837438,
+        "Temperature mod 3 ch 6": 29.542179,
+        "Temperature mod 3 ch 7": 31.986348,
+        "Temperature mod 3 ch 8": 26.014947,
+        "Temperature mod 4 ch 1": 23.485416,
+        "Temperature mod 4 ch 2": 23.733676,
+        "Temperature mod 4 ch 3": 24.155206,
+        "Temperature mod 4 ch 4": 24.797136,
+        "Temperature mod 4 ch 5": 24.435427,
+        "Temperature mod 4 ch 6": 26.903726,
+        "Temperature mod 4 ch 7": 27.650094,
+        "Temperature mod 4 ch 8": 27.723333,
+        "Temperature mod 5 ch 1": 28.379613,
+        "Temperature mod 5 ch 2": 28.738461,
+        "Temperature mod 5 ch 3": 29.258377,
+        "Temperature mod 5 ch 4": 26.621012,
+        "Temperature mod 6 ch 1": 25.24582,
+        "Temperature mod 6 ch 2": 27.042442,
+        "Temperature mod 6 ch 3": 25.334573,
+        "Temperature mod 6 ch 4": 28.12664,
+        "Temperature mod 7 ch 1": 28.944209,
+        "Temperature mod 7 ch 2": 26.144911,
+        "Temperature mod 7 ch 3": 23.885177,
+        "Temperature mod 7 ch 4": 28.147157,
+        "Temperature mod 8 ch 1": 17.540924,
+        "Temperature mod 8 ch 2": 17.907078,
+        "Temperature mod 8 ch 3": 21.520985,
+        "Temperature mod 8 ch 4": 22.134967
+      }
+    ],
+    "rows_scanned": 789610,
+    "candidate_id_column": null,
+    "candidate_ids_sample": []
+  }
+]

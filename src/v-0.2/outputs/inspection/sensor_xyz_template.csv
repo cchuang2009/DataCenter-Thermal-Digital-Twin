@@ -1,0 +1,4 @@
+sensor_id,measurement_port,x_m,y_m,z_m,coordinate_source,review_status
+1,1,,,,,needs_review
+2,2,,,,,needs_review
+3,3,,,,,needs_review

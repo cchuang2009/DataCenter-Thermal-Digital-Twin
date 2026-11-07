@@ -1,0 +1,97 @@
+[
+  {
+    "file": "AAU-layout-file.xlsx",
+    "sheets": [
+      {
+        "sheet": "Ark1",
+        "columns": [
+          "Rack",
+          "FirstRow",
+          "Height",
+          "Type",
+          "Model",
+          "pwrConsumption",
+          "note",
+          "PSU rating (W)",
+          "CPU",
+          "GPU",
+          "Power use measurement port"
+        ],
+        "rows_preview": 74,
+        "candidate_id": "Power use measurement port",
+        "candidate_xyz": [
+          null,
+          null,
+          null
+        ],
+        "preview": [
+          {
+            "Rack": "1",
+            "FirstRow": "1",
+            "Height": "1",
+            "Type": "emptyOpen",
+            "Model": NaN,
+            "pwrConsumption": "0",
+            "note": NaN,
+            "PSU rating (W)": NaN,
+            "CPU": NaN,
+            "GPU": NaN,
+            "Power use measurement port": "1"
+          },
+          {
+            "Rack": "1",
+            "FirstRow": "2",
+            "Height": "1",
+            "Type": "ITEquipment",
+            "Model": NaN,
+            "pwrConsumption": "0",
+            "note": "Xenon (not connected to power)",
+            "PSU rating (W)": "0",
+            "CPU": NaN,
+            "GPU": NaN,
+            "Power use measurement port": "1"
+          },
+          {
+            "Rack": "1",
+            "FirstRow": "3",
+            "Height": "1",
+            "Type": "emptyOpen",
+            "Model": NaN,
+            "pwrConsumption": "0",
+            "note": NaN,
+            "PSU rating (W)": NaN,
+            "CPU": NaN,
+            "GPU": NaN,
+            "Power use measurement port": "1"
+          },
+          {
+            "Rack": "1",
+            "FirstRow": "4",
+            "Height": "1",
+            "Type": "ITEquipment",
+            "Model": NaN,
+            "pwrConsumption": "0",
+            "note": "Krypton (not connected to power)",
+            "PSU rating (W)": "0",
+            "CPU": NaN,
+            "GPU": NaN,
+            "Power use measurement port": "1"
+          },
+          {
+            "Rack": "1",
+            "FirstRow": "5",
+            "Height": "1",
+            "Type": "emptyOpen",
+            "Model": NaN,
+            "pwrConsumption": "0",
+            "note": NaN,
+            "PSU rating (W)": NaN,
+            "CPU": NaN,
+            "GPU": NaN,
+            "Power use measurement port": "1"
+          }
+        ]
+      }
+    ]
+  }
+]
