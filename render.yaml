@@ -1,1 +1,8 @@
-src/v-0.3/render.yaml
+services:
+  - type: web
+    name: datacenter-thermal-twin
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.api:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health

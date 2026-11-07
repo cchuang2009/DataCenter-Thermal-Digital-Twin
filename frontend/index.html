@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Data Center Thermal Twin v0.3</title><link rel="stylesheet" href="/assets/css/style.css"></head>
+<body><header><div><small>DIGITAL TWIN / DEMONSTRATOR</small><h1>Data Center Thermal Twin</h1></div><span id="status">Connecting… · v0.3.0</span></header>
+<main><section class="viewer"><div class="bar"><b>3D ROOM VIEW</b><span><button id="air">Airflow: OFF</button> <button id="reset">Reset view</button></span></div>
+<div id="scene"><div id="loading">Loading room model…</div><div class="legend">Temperature<div class="gradient"></div><small>Cool <span>Warm</span></small></div><div class="axes">X: width · Y: depth · Z: height</div></div>
+<div class="timeline"><b>TIME SIMULATION</b><span id="time">T+000 min</span><div><button id="play">▶ Play</button><input id="slider" type="range" min="0" max="47" value="0"><small id="frame">1 / 48</small></div><small>48 synthetic frames · 5-minute intervals</small></div></section>
+<aside><section class="card"><h3>ROOM OVERVIEW</h3><div class="metrics"><div>Room volume<strong id="volume">224 m³</strong></div><div>Racks<strong id="racks">10</strong></div><div>Sensors<strong id="sensors">66</strong></div><div>Data source<strong class="synthetic">Synthetic</strong></div></div></section>
+<section class="card"><h3>SELECTED SENSOR</h3><div id="empty">Select a sensor marker in the 3D view.</div><div id="details" hidden><h2 id="sid">—</h2><small id="kind">—</small><div class="temp"><strong id="temp">—</strong> °C</div><p>Position <b id="pos">—</b></p><p>Air velocity <b id="vel">—</b></p><p>Frame <b id="sframe">—</b></p><canvas id="chart" width="300" height="90"></canvas></div></section>
+<section class="card"><h3>FRAME SUMMARY</h3><p>Average <b id="avg">—</b></p><p>Maximum <b id="max">—</b></p><p>Minimum <b id="min">—</b></p></section>
+<section class="notice"><b>Demo data notice</b><p>Generated synthetic values and positions only. Not Aalborg measurements; sensor-to-CAD mapping is not verified. Do not use for operational cooling decisions.</p></section></aside></main>
+<footer>Python FastAPI · Three.js · Synthetic demonstration dataset</footer>
+<script type="module" src="/assets/js/main.js"></script></body></html>
