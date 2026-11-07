@@ -6,6 +6,18 @@ To suit the Render's condition, link the backend, frentent, render.yaml,requirem
 
 FastAPI + Three.js interactive 3D server-room demonstrator.
 
+## Note 
+1. if test with brave, enable GPU accelaration, in brave:/settings/system.
+2. correct THREE.js error, add whithin <head> </head> in frentend/index.html:
+```
+<script type="importmap">
+{"imports":{
+  "three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+}}
+</script>
+```
+
 ## Included
 - 10 × 7 × 3.2 m synthetic room and 10 synthetic racks
 - 66 synthetic temperature / airflow sensor points
