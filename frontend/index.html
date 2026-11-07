@@ -1,6 +1,13 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Data Center Thermal Twin v0.3</title><link rel="stylesheet" href="/assets/css/style.css"></head>
+<title>Data Center Thermal Twin v0.3</title><link rel="stylesheet" href="/assets/css/style.css">
+<script type="importmap">
+{"imports":{
+  "three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/":"https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+}}
+</script>
+</head>
 <body><header><div><small>DIGITAL TWIN / DEMONSTRATOR</small><h1>Data Center Thermal Twin</h1></div><span id="status">Connecting… · v0.3.0</span></header>
 <main><section class="viewer"><div class="bar"><b>3D ROOM VIEW</b><span><button id="air">Airflow: OFF</button> <button id="reset">Reset view</button></span></div>
 <div id="scene"><div id="loading">Loading room model…</div><div class="legend">Temperature<div class="gradient"></div><small>Cool <span>Warm</span></small></div><div class="axes">X: width · Y: depth · Z: height</div></div>
