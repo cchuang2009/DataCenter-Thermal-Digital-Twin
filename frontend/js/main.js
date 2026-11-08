@@ -1,5 +1,5 @@
-import * as THREE from "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js";
-import {OrbitControls} from "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/controls/OrbitControls.js";
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 const $=id=>document.getElementById(id);
 const S={meta:null,frame:0,selected:null,markers:new Map(),arrows:[],air:false,playing:false};
 const color=t=>{const x=THREE.MathUtils.clamp((t-20)/16,0,1);return x<.33?new THREE.Color("#246bff").lerp(new THREE.Color("#22d3ee"),x/.33):x<.66?new THREE.Color("#22d3ee").lerp(new THREE.Color("#facc15"),(x-.33)/.33):new THREE.Color("#facc15").lerp(new THREE.Color("#ef4444"),(x-.66)/.34)};
