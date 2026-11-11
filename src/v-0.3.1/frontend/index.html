@@ -1,0 +1,138 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1">
+
+<title>AI Data Center Thermal Twin 0.3.1</title>
+
+<link rel="stylesheet" href="/static/style.css">
+<script type="importmap">
+{"imports":{
+  "three":"https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+  "three/addons/":"https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+}}
+</script>
+</head>
+
+<body>
+
+<header>
+    <div>
+        <h1>AI Data Center Thermal Twin 0.3.1</h1>
+        <p>Procedural 3D Modeling · Thermal Simulation</p>
+    </div>
+    <span id="status">Connecting...</span>
+</header>
+
+<main>
+
+    <section class="viewport">
+        <div id="scene"></div>
+
+        <div class="legend">
+            <b>Temperature °C</b>
+            <div class="gradient"></div>
+            <div class="scale">
+                <span>22</span>
+                <span>26</span>
+                <span>30</span>
+                <span>34</span>
+            </div>
+        </div>
+    </section>
+
+    <aside>
+
+        <h2>Simulation Control</h2>
+
+        <div class="metric">
+            <span>Room</span>
+            <b>12 × 8 × 3.5 m</b>
+        </div>
+
+        <div class="metric">
+            <span>Racks</span>
+            <b id="rack-count">10</b>
+        </div>
+
+        <div class="metric">
+            <span>Sensors</span>
+            <b id="sensor-count">36</b>
+        </div>
+
+        <hr>
+
+        <label>
+            Time Step
+            <strong id="time-label">T+000 min</strong>
+        </label>
+
+        <input id="time"
+               type="range"
+               min="0"
+               max="47"
+               value="0">
+
+        <button id="play">Play</button>
+        <button id="reset">Reset</button>
+
+        <hr>
+
+        <label>
+            <input id="show-temp"
+                   type="checkbox"
+                   checked>
+            Temperature Sensors
+        </label>
+
+        <label>
+            <input id="show-air"
+                   type="checkbox"
+                   checked>
+            Airflow
+        </label>
+
+        <hr>
+
+        <h2>Selected Sensor</h2>
+
+        <div id="selection">
+            Click a sensor.
+        </div>
+
+        <hr>
+
+        <h2>Temperature Summary</h2>
+
+        <div class="metric">
+            <span>Mean</span>
+            <b id="mean-temp">—</b>
+        </div>
+
+        <div class="metric">
+            <span>Maximum</span>
+            <b id="max-temp">—</b>
+        </div>
+
+        <div class="metric">
+            <span>Airflow</span>
+            <b id="mean-air">—</b>
+        </div>
+
+        <p class="note">
+            Synthetic demonstration data.
+            Not CFD validated.
+        </p>
+
+    </aside>
+
+</main>
+
+<script type="module" src="/static/app.js"></script>
+
+</body>
+</html>
